@@ -8,8 +8,7 @@ This project was created as I wanted to learn a new language and taking out time
 
 1. Decide the language that you want to learn. (Currently around 500 words are added in Tamil and French)
 2. Add the word you know with the translated text in the language you want to learn in assets/data.json
-3. Build the project and run
-4. Unpack the chrome extension and load the `dist` folder.
+4. Load the `dist` folder from `Load Unpacked` option in chrome extension. (You will have to enable developer mode to see this option).
 
 Now every time you open a new tab, you will see a random word from the list that you added.
 
