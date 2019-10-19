@@ -1,0 +1,36 @@
+<div class="full-page-container" id="container">
+    <div class="search-container">
+        <input type="text" placeholder="Search word" (input)="onSearchChange($event.target.value)">
+    </div>
+    <div class="text-wrapper">
+        <div class="time-container">
+            <p class="time">{{current_time | date : 'shortTime'}}</p>
+            <p class="date">{{current_time | date : 'longDate'}}</p>
+        </div>
+        <p class="hint">Here's a new word for you.. </p>
+        <p class="word">{{selected_word.english}}</p>
+        <p *ngIf="selected_word.tamil">
+            <span class="hint">Tamil: </span>
+            <span>{{selected_word.tamil}}</span>
+        </p>
+        <p *ngIf="selected_word.french">
+            <span class="hint">French: </span>
+            <span>{{selected_word.french}} </span>
+        </p>
+    </div>
+    <div *ngIf="search_text && filtered_data && filtered_data.length" class="filtered-list">
+        <ul>
+            <li *ngFor="let datum of filtered_data">
+                <p>{{ datum.english }}</p>
+                <p>
+                    <span class="hint">Tamil: </span>
+                    <span>{{ datum.tamil }}</span>
+                </p>
+                <p>
+                    <span class="hint">French: </span>
+                    <span>{{ datum.french }}</span>
+                </p>
+            </li>
+        </ul>
+    </div>
+</div>

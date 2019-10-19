@@ -1,0 +1,2281 @@
+[{
+    "english": "water",
+    "french": "l'eau",
+    "tamil": "Thaneer"
+  },
+  {
+    "english": "mother",
+    "french": "mère",
+    "tamil": "amma"
+  },
+  {
+    "english": "father",
+    "french": "père",
+    "tamil": "appa"
+  },
+  {
+    "english": "elder brother",
+    "french": "grand frère",
+    "tamil": "anna"
+  },
+  {
+    "english": "elder sister",
+    "french": "sœur ainée",
+    "tamil": "akka"
+  },
+  {
+    "english": "younger brother",
+    "french": "frère cadet",
+    "tamil": "thambi"
+  },
+  {
+    "english": "younger sister",
+    "french": "sœur cadette",
+    "tamil": "thangai"
+  },
+  {
+    "english": "white",
+    "french": "blanc",
+    "tamil": "venmai"
+  },
+  {
+    "english": "black",
+    "french": "noir",
+    "tamil": "karuppu"
+  },
+  {
+    "english": "blue",
+    "french": "bleu",
+    "tamil": "neelam"
+  },
+  {
+    "english": "red",
+    "french": "rouge",
+    "tamil": "sivappu"
+  },
+  {
+    "english": "yellow",
+    "french": "Jaune",
+    "tamil": "manjal"
+  },
+  {
+    "english": "grey",
+    "french": "gris",
+    "tamil": "pazhupu"
+  },
+  {
+    "english": "Green",
+    "french": "vert",
+    "tamil": "Pachai"
+  },
+  {
+    "english": "I",
+    "french": "je",
+    "tamil": "Naan"
+  },
+  {
+    "english": "you",
+    "french": "toi",
+    "tamil": "Nee"
+  },
+  {
+    "english": "We",
+    "french": "nous",
+    "tamil": "Naam"
+  },
+  {
+    "english": "He",
+    "french": "Il",
+    "tamil": "Avar"
+  },
+  {
+    "english": "She",
+    "french": "Elle",
+    "tamil": "Aval"
+  },
+  {
+    "english": "His",
+    "french": "Le sien",
+    "tamil": "Ivar"
+  },
+  {
+    "english": "Her",
+    "french": "Sa",
+    "tamil": "Ival"
+  },
+  {
+    "english": "All of you",
+    "french": "Vous tous",
+    "tamil": "Neengal"
+  },
+  {
+    "english": "Sorry",
+    "french": "Pardon",
+    "tamil": "Mannipu"
+  },
+  {
+    "english": "Thanks",
+    "french": "Merci",
+    "tamil": "Nandri"
+  },
+  {
+    "english": "Taste",
+    "french": "Goût",
+    "tamil": "Suvai"
+  },
+  {
+    "english": "Come",
+    "french": "Viens",
+    "tamil": "Vaa"
+  },
+  {
+    "english": "Go",
+    "french": "Aller",
+    "tamil": "Po"
+  },
+  {
+    "english": "Come(With respect)",
+    "french": "Venez (En ce qui concerne)",
+    "tamil": "Vaanga"
+  },
+  {
+    "english": "Go(With respect)",
+    "french": "Go (En ce qui concerne)",
+    "tamil": "Ponga"
+  },
+  {
+    "english": "Today",
+    "french": "Aujourd'hui",
+    "tamil": "Indru"
+  },
+  {
+    "english": "Yesterday",
+    "french": "Hier",
+    "tamil": "Netru"
+  },
+  {
+    "english": "Tomorrow",
+    "french": "Demain",
+    "tamil": "Naalai"
+  },
+  {
+    "english": "Zero",
+    "french": "Zéro",
+    "tamil": "Poojyam"
+  },
+  {
+    "english": "One",
+    "french": "Un",
+    "tamil": "Ondru"
+  },
+  {
+    "english": "Two",
+    "french": "Deux",
+    "tamil": "Irandu"
+  },
+  {
+    "english": "Three",
+    "french": "Trois",
+    "tamil": "Moondru"
+  },
+  {
+    "english": "Four",
+    "french": "quatre",
+    "tamil": "Naangu"
+  },
+  {
+    "english": "Five",
+    "french": "Cinq",
+    "tamil": "Aindhu"
+  },
+  {
+    "english": "Six",
+    "french": "Six",
+    "tamil": "Aaru"
+  },
+  {
+    "english": "Seven",
+    "french": "Sept",
+    "tamil": "Eazhu"
+  },
+  {
+    "english": "Eight",
+    "french": "Huit",
+    "tamil": "Ettu"
+  },
+  {
+    "english": "Nine",
+    "french": "Neuf",
+    "tamil": "Onbadhu"
+  },
+  {
+    "english": "Ten",
+    "french": "cette",
+    "tamil": "Pathu"
+  },
+  {
+    "english": "Eleven",
+    "french": "Onze",
+    "tamil": "Pathinondru (Pathu+Ondru)"
+  },
+  {
+    "english": "Twelve",
+    "french": "Douze",
+    "tamil": "Pannirandu(Pathu+Irandu)"
+  },
+  {
+    "english": "Thriteen",
+    "french": "Thriteen",
+    "tamil": "Pathimoondru"
+  },
+  {
+    "english": "Twenty",
+    "french": "Vingt",
+    "tamil": "IruPathu( Irandu+Pathu)"
+  },
+  {
+    "english": "how",
+    "french": "Comment",
+    "tamil": "Eppadi"
+  },
+  {
+    "english": "hello",
+    "french": "salut",
+    "tamil": "vanakkam"
+  },
+  {
+    "english": "Good Morning",
+    "french": "Bonjour",
+    "tamil": "Kaalai vanakkam"
+  },
+  {
+    "english": "Good Afternoon",
+    "french": "Bonne après-midi",
+    "tamil": "Madhiya vanakkam"
+  },
+  {
+    "english": "Good Evening",
+    "french": "Bonsoir",
+    "tamil": "Maalai vanakkam"
+  },
+  {
+    "english": "Good Night",
+    "french": "Bonne nuit",
+    "tamil": "Iniya iravu"
+  },
+  {
+    "english": "Morning",
+    "french": "Matin",
+    "tamil": "Kaalai"
+  },
+  {
+    "english": "Afternoon",
+    "french": "Après midi",
+    "tamil": "Madhiyam"
+  },
+  {
+    "english": "Evening",
+    "french": "Soirée",
+    "tamil": "Maalai"
+  },
+  {
+    "english": "Night",
+    "french": "Nuit",
+    "tamil": "Iravu"
+  },
+  {
+    "english": "Hello, What are the food items available ?",
+    "french": "Salut, Quels sont les produits alimentaires disponibles?",
+    "tamil": "Vanakkam, enna unavu vagaigal Iruku ?"
+  },
+  {
+    "english": "Please give me two idlies",
+    "french": "S'il vous plaît donnez-moi deux idlies",
+    "tamil": "Enaku Irandu Idly kudunga"
+  },
+  {
+    "english": "Please Give me one coffee",
+    "french": "Donnez-moi s'il vous plaît un café",
+    "tamil": "Enaku oru Coffee kudunga"
+  },
+  {
+    "english": "No Sugar",
+    "french": "Sans sucre",
+    "tamil": "Sarkarai vendam"
+  },
+  {
+    "english": "I want strong coffee",
+    "french": "Je veux du café fort",
+    "tamil": "Enaku Thidamana coffee vendum"
+  },
+  {
+    "english": "How much is the total ?",
+    "french": "Quelle est l'addition ?",
+    "tamil": "Motham Evalavu aachu ?"
+  },
+  {
+    "english": "Thanks",
+    "french": "Merci",
+    "tamil": "Nandri"
+  },
+  {
+    "english": "Politics",
+    "french": "Politique",
+    "tamil": "Arasiyal"
+  },
+  {
+    "english": "Politician",
+    "french": "Politicien",
+    "tamil": "Arasiyalvaadhi"
+  },
+  {
+    "english": "Male-Man",
+    "french": "Homme male",
+    "tamil": "Aan"
+  },
+  {
+    "english": "Men",
+    "french": "mais",
+    "tamil": "Aangal"
+  },
+  {
+    "english": "Female-woman",
+    "french": "Femme-femme",
+    "tamil": "Pen"
+  },
+  {
+    "english": "Women",
+    "french": "Femmes",
+    "tamil": "Pengal"
+  },
+  {
+    "english": "Democracy",
+    "french": "La démocratie",
+    "tamil": "Kudiyarasu"
+  },
+  {
+    "english": "water",
+    "french": "l'eau",
+    "tamil": "thanneer"
+  },
+  {
+    "english": "Drink(Drink this)",
+    "french": "Buvez (boire ce)",
+    "tamil": "kudi"
+  },
+  {
+    "english": "Little (small amout of)",
+    "french": "Little (petite quantité de)",
+    "tamil": "Konjam"
+  },
+  {
+    "english": "More (more of this)",
+    "french": "Plus (plus de cela)",
+    "tamil": "Niraya"
+  },
+  {
+    "english": "Want",
+    "french": "Vouloir",
+    "tamil": "Vendum"
+  },
+  {
+    "english": "Dont want",
+    "french": "ne veulent pas que",
+    "tamil": "Vendam"
+  },
+  {
+    "english": "Drink little water",
+    "french": "Buvez peu d'eau",
+    "tamil": "Konjam Thanneer kudi"
+  },
+  {
+    "english": "I want more water",
+    "french": "Je veux plus d'eau",
+    "tamil": "Niraya Thanneer vendum"
+  },
+  {
+    "english": "Road",
+    "french": "Route",
+    "tamil": "Saalai"
+  },
+  {
+    "english": "Home",
+    "french": "Accueil",
+    "tamil": "Veedu"
+  },
+  {
+    "english": "Building",
+    "french": "Bâtiment",
+    "tamil": "Katidam"
+  },
+  {
+    "english": "Church",
+    "french": "Église",
+    "tamil": "Devalayam"
+  },
+  {
+    "english": "Temple",
+    "french": "Temple",
+    "tamil": "Kovil"
+  },
+  {
+    "english": "Protect",
+    "french": "Protéger",
+    "tamil": "Kaaval"
+  },
+  {
+    "english": "Police station",
+    "french": "Police station",
+    "tamil": "Kaaval Nilayam"
+  },
+  {
+    "english": "Security(Person)",
+    "french": "Sécurité (personne)",
+    "tamil": "Kaavalaali"
+  },
+  {
+    "english": "Where",
+    "french": "Où",
+    "tamil": "Enge"
+  },
+  {
+    "english": "What",
+    "french": "Quoi",
+    "tamil": "Enna"
+  },
+  {
+    "english": "Which",
+    "french": "Lequel",
+    "tamil": "Edhu"
+  },
+  {
+    "english": "how",
+    "french": "Comment",
+    "tamil": "Eppadi"
+  },
+  {
+    "english": "Why",
+    "french": "Pourquoi",
+    "tamil": "Edhuku"
+  },
+  {
+    "english": "For what",
+    "french": "Pour quoi",
+    "tamil": "Edhanaala"
+  },
+  {
+    "english": "Why",
+    "french": "Pourquoi",
+    "tamil": "Yen"
+  },
+  {
+    "english": "Where",
+    "french": "Où",
+    "tamil": "Enga"
+  },
+  {
+    "english": "Who?",
+    "french": "Qui?",
+    "tamil": "Yaar?"
+  },
+  {
+    "english": "When?",
+    "french": "Quand?",
+    "tamil": "Eppohdhu?"
+  },
+  {
+    "english": "How much?",
+    "french": "Combien?",
+    "tamil": "Evvalhavu?"
+  },
+  {
+    "english": "How many?",
+    "french": "Combien?",
+    "tamil": "Eththanai?"
+  },
+  {
+    "english": "What price?",
+    "french": "Quel prix?",
+    "tamil": "Enna Vilai?"
+  },
+  {
+    "english": "Which ic the truth?",
+    "french": "Ce qui ic la vérité?",
+    "tamil": "Edhu Unhmai?"
+  },
+  {
+    "english": "How is the situation?",
+    "french": "Quelle est la situation?",
+    "tamil": "Eppadi Nilaimai?"
+  },
+  {
+    "english": "Why is it so?",
+    "french": "Pourquoi est-il?",
+    "tamil": "Aen Ippadi?"
+  },
+  {
+    "english": "Where is he?",
+    "french": "Où est-il?",
+    "tamil": "Engae Avan?"
+  },
+  {
+    "english": "Who is he?",
+    "french": "Qui est-il?",
+    "tamil": "Yaar Avan?"
+  },
+  {
+    "english": "When is it required?",
+    "french": "Quand est-il nécessaire?",
+    "tamil": "Eppohdhu vaendum?"
+  },
+  {
+    "english": "What do you want?",
+    "french": "Qu'est-ce que vous voulez?",
+    "tamil": "Enna Vaendum"
+  },
+  {
+    "english": "Which do you want?",
+    "french": "Lequel veux-tu?",
+    "tamil": "Edhu Vaendum?"
+  },
+  {
+    "english": "How do you want?",
+    "french": "Comment voulez-vous?",
+    "tamil": "Eppadi Vaendum?"
+  },
+  {
+    "english": "Why do you want?",
+    "french": "Pourquoi veux-tu?",
+    "tamil": "Aen Vaendum?"
+  },
+  {
+    "english": "Where do you want?",
+    "french": "Où voulez-vous?",
+    "tamil": "Engu Vaendum?"
+  },
+  {
+    "english": "Whom do you) want?",
+    "french": "Qui vous) voulez?",
+    "tamil": "Yaar Vaendum?"
+  },
+  {
+    "english": "How many do you want?",
+    "french": "Combien en voulez-vous?",
+    "tamil": "Eththanai Vaendum?"
+  },
+  {
+    "english": "How much do you want?",
+    "french": "Combien voulez-vous?",
+    "tamil": "Evvalhavu Vaendum?"
+  },
+  {
+    "english": "What is it?",
+    "french": "Qu'Est-ce que c'est?",
+    "tamil": "Adhu Enna?"
+  },
+  {
+    "english": "Which is it?",
+    "french": "Lequel est-ce?",
+    "tamil": "Adhu Edhu?"
+  },
+  {
+    "english": "How is it?",
+    "french": "Comment c'est?",
+    "tamil": "Adhu Eppadi?"
+  },
+  {
+    "english": "Why is it?",
+    "french": "Pourquoi est-il?",
+    "tamil": "Adhu Aen?"
+  },
+  {
+    "english": "Where is it?",
+    "french": "Où est-ce?",
+    "tamil": "Adhu Engae?"
+  },
+  {
+    "english": "When is it?",
+    "french": "Quand est-il?",
+    "tamil": "Adhu Eppohdhu?"
+  },
+  {
+    "english": "How much is it?",
+    "french": "Combien ça coûte?",
+    "tamil": "Adhu Evvalhavu?"
+  },
+  {
+    "english": "I",
+    "french": "je",
+    "tamil": "Naan"
+  },
+  {
+    "english": "He",
+    "french": "Il",
+    "tamil": "Avan"
+  },
+  {
+    "english": "She",
+    "french": "Elle",
+    "tamil": "Aval"
+  },
+  {
+    "english": "You",
+    "french": "Toi",
+    "tamil": "Nee"
+  },
+  {
+    "english": "It",
+    "french": "Il",
+    "tamil": "Athu"
+  },
+  {
+    "english": "A",
+    "french": "UNE",
+    "tamil": "Oru"
+  },
+  {
+    "english": "They",
+    "french": "Ils",
+    "tamil": "avargal"
+  },
+  {
+    "english": "Them",
+    "french": "Leur",
+    "tamil": "avargal"
+  },
+  {
+    "english": "Come",
+    "french": "Viens",
+    "tamil": "Va"
+  },
+  {
+    "english": "Came",
+    "french": "Venu",
+    "tamil": "Vanthuttan"
+  },
+  {
+    "english": "Will come",
+    "french": "Viendra",
+    "tamil": "Vanthiruvan"
+  },
+  {
+    "english": "Open",
+    "french": "Ouvert",
+    "tamil": "Thora"
+  },
+  {
+    "english": "Opened",
+    "french": "Ouvert",
+    "tamil": "Thoranthiruke"
+  },
+  {
+    "english": "Will open",
+    "french": "S'ouvrira",
+    "tamil": "Therakum"
+  },
+  {
+    "english": "Sit",
+    "french": "Asseoir",
+    "tamil": "Ukkarru"
+  },
+  {
+    "english": "Walk",
+    "french": "Marche",
+    "tamil": "Nadae"
+  },
+  {
+    "english": "Eat",
+    "french": "Manger",
+    "tamil": "Saapidu"
+  },
+  {
+    "english": "Drink",
+    "french": "Boisson",
+    "tamil": "Kudi"
+  },
+  {
+    "english": "Win",
+    "french": "Gagner",
+    "tamil": "Jayie"
+  },
+  {
+    "english": "Go",
+    "french": "Aller",
+    "tamil": "Po"
+  },
+  {
+    "english": "Run",
+    "french": "Courir",
+    "tamil": "Odu"
+  },
+  {
+    "english": "I go",
+    "french": "je vais",
+    "tamil": "Naan porean"
+  },
+  {
+    "english": "He goes",
+    "french": "Il part",
+    "tamil": "Avan poraan"
+  },
+  {
+    "english": "He eats an banana",
+    "french": "Il mange une banane",
+    "tamil": "Avan vaalai palam saapiduvaan"
+  },
+  {
+    "english": "He is eating an banana",
+    "french": "Il mange une banane",
+    "tamil": "Avan vaalai palam saapiduraan"
+  },
+  {
+    "english": "He ate an banana",
+    "french": "Il a mangé une banane",
+    "tamil": "Avan vaalai palam saapittaan"
+  },
+  {
+    "english": "I saw the film last week",
+    "french": "J'ai vu le film la semaine dernière",
+    "tamil": "Naan poana vaaram padam paarthean"
+  },
+  {
+    "english": "She came by bus yesterday",
+    "french": "Elle est venue en bus hier",
+    "tamil": "Aval nethu pearundhu valiya vandha"
+  },
+  {
+    "english": "They went to the temple",
+    "french": "Ils sont allés au temple",
+    "tamil": "Avankellam kovilluku poannaanga"
+  },
+  {
+    "english": "He slept the whole night",
+    "french": "Il a dormi toute la nuit",
+    "tamil": "Avan mulu rathiriyum thoonkinaan"
+  },
+  {
+    "english": "He has eaten",
+    "french": "Il a mangé",
+    "tamil": "Avan saapittu mudichutaan"
+  },
+  {
+    "english": "He had eaten",
+    "french": "Il avait mangé",
+    "tamil": "Avan saapittaan"
+  },
+  {
+    "english": "He wrote well in the examination",
+    "french": "Il a écrit bien dans l'examen",
+    "tamil": "Avan paritchayila nalla eluthi irukkaan"
+  },
+  {
+    "english": "He had gone",
+    "french": "Il est parti",
+    "tamil": "Avan poittaan"
+  },
+  {
+    "english": "He had come",
+    "french": "Il était venu",
+    "tamil": "Avan vanthutaan"
+  },
+  {
+    "english": "He will eat",
+    "french": "Il va manger",
+    "tamil": "Avan saapiduvaan"
+  },
+  {
+    "english": "He will go",
+    "french": "Il ira",
+    "tamil": "Avan povaan"
+  },
+  {
+    "english": "He will come",
+    "french": "Il viendra",
+    "tamil": "Avan varuvaan"
+  },
+  {
+    "english": "What is your name?",
+    "french": "Quel est votre nom?",
+    "tamil": "Unga peru enna?"
+  },
+  {
+    "english": "What",
+    "french": "Quoi",
+    "tamil": "Enna"
+  },
+  {
+    "english": "Your",
+    "french": "Votre",
+    "tamil": "unga"
+  },
+  {
+    "english": "Name",
+    "french": "Nom",
+    "tamil": "Paer"
+  },
+  {
+    "english": "What did you do?",
+    "french": "Qu'est-ce que tu as fait?",
+    "tamil": "Nee enna panra, neenga enna panreenga"
+  },
+  {
+    "english": "What should I do?",
+    "french": "Que devrais-je faire?",
+    "tamil": "Naan enna seyyanum?"
+  },
+  {
+    "english": "What are the questions?",
+    "french": "Quelles sont les questions?",
+    "tamil": "Enna kelvigal?"
+  },
+  {
+    "english": "What were the questions?",
+    "french": "Quelles étaient les questions?",
+    "tamil": "Enna kelvigal irunthithu?"
+  },
+  {
+    "english": "What is the last question?",
+    "french": "Quelle est la dernière question?",
+    "tamil": "Kadaisi kelvi enna?"
+  },
+  {
+    "english": "What is written in the letter?",
+    "french": "Ce qui est écrit dans la lettre?",
+    "tamil": "Khadithathil enna ezhuthi iruku?"
+  },
+  {
+    "english": "What you had been told?",
+    "french": "Qu'est-ce que vous aviez dit?",
+    "tamil": "Unaku enna solli irunthathu?"
+  },
+  {
+    "english": "What will be the answer?",
+    "french": "Quelle sera la réponse?",
+    "tamil": "Badil enna va irukum?"
+  },
+  {
+    "english": "Why did you come?",
+    "french": "Pourquoi es-tu venu?",
+    "tamil": "Yean vantha?"
+  },
+  {
+    "english": "Why did you sleep?",
+    "french": "Pourquoi avez-vous dormi?",
+    "tamil": "En thoonguray?"
+  },
+  {
+    "english": "Why did you tell him to go?",
+    "french": "Pourquoi avez-vous lui dire d'aller?",
+    "tamil": "Yaen avana poga sonna?"
+  },
+  {
+    "english": "Why did he bring the bag?",
+    "french": "Pourquoi at-il mettre le sac?",
+    "tamil": "Avan yean pai kondu vanthan?"
+  },
+  {
+    "english": "Why did she pay the money?",
+    "french": "Pourquoi at-elle payer l'argent?",
+    "tamil": "Aval yaen kaasu koduthal?"
+  },
+  {
+    "english": "Why did they sit there?",
+    "french": "Pourquoi ont-ils assis là?",
+    "tamil": "Avunga yaen inga utkaanthirukaanga?"
+  },
+  {
+    "english": "Why do you drive the car?",
+    "french": "Pourquoi vous conduisez la voiture?",
+    "tamil": "Yaen car ottina?"
+  },
+  {
+    "english": "Why are they late for the meeting?",
+    "french": "Pourquoi sont-ils en retard pour la réunion?",
+    "tamil": "Yean avunga meeting ku thamadama vanthaanga?"
+  },
+  {
+    "english": "How did you come?",
+    "french": "Comment es tu venu?",
+    "tamil": "Nee eppadi vanthe?"
+  },
+  {
+    "english": "How did you sleep?",
+    "french": "As-tu bien dormi?",
+    "tamil": "Nee epadi thoongina?"
+  },
+  {
+    "english": "How did you drive?",
+    "french": "Comment avez-vous conduit?",
+    "tamil": "Nee epadi oattina?"
+  },
+  {
+    "english": "How did you write?",
+    "french": "Comment avez-vous écrit?",
+    "tamil": "Nee epadi ezhuthina?"
+  },
+  {
+    "english": "How many apples are there in my hand?",
+    "french": "Combien de pommes sont là dans ma main?",
+    "tamil": "Ethana apple enn kaieilla irukku?"
+  },
+  {
+    "english": "How many did you take?",
+    "french": "Combien avez-vous pris?",
+    "tamil": "Ethana nee edutha?"
+  },
+  {
+    "english": "How much did he pay you?",
+    "french": "Combien at-il payé?",
+    "tamil": "Evalavu panam kodutha?"
+  },
+  {
+    "english": "How much distance to go?",
+    "french": "Quelle distance pour aller?",
+    "tamil": "Evalavu thooram poakanum?"
+  },
+  {
+    "english": "How was the journey yesterday?",
+    "french": "Comment était hier voyage?",
+    "tamil": "Nethu payanam epadi irrunthathu?"
+  },
+  {
+    "english": "Which way did you come?",
+    "french": "De quel côté êtes-vous arrivé?",
+    "tamil": "Entha valiya vanthe?"
+  },
+  {
+    "english": "Which is your favorite color?",
+    "french": "Quelle est votre couleur préférée?",
+    "tamil": "Virupamana niram enna?"
+  },
+  {
+    "english": "In which room did you sleep?",
+    "french": "Dans quelle pièce avez-vous dormi?",
+    "tamil": "Entha arailla thoongina?"
+  },
+  {
+    "english": "Which story did you tell?",
+    "french": "Quelle histoire avez-vous dit?",
+    "tamil": "Entha kathaya sonna?"
+  },
+  {
+    "english": "Which is the sweetest fruit?",
+    "french": "Quel est le fruit le plus doux?",
+    "tamil": "Unnaku rumba inipaana palam ethu?"
+  },
+  {
+    "english": "Which is the best newspaper in Hindi?",
+    "french": "Quel est le meilleur journal en hindi?",
+    "tamil": "Entha siethithaal nalla irukkum?"
+  },
+  {
+    "english": "Which Indian state has the largest population?",
+    "french": "Quel État indien a la plus grande population?",
+    "tamil": "Entha indhiya naattu maanilathula romba janathogai irruku?"
+  },
+  {
+    "english": "Where did you come from?",
+    "french": "D'où viens-tu?",
+    "tamil": "Enga irunthu vandha?"
+  },
+  {
+    "english": "Where did you sleep?",
+    "french": "Où as-tu dormi?",
+    "tamil": "Enga thoonguna?"
+  },
+  {
+    "english": "Where is the manager's cabin?",
+    "french": "Où se trouve la cabine du gestionnaire?",
+    "tamil": "Seyalaalar arai enga?"
+  },
+  {
+    "english": "Where should I go?",
+    "french": "Où dois-je aller?",
+    "tamil": "Naan enga poganum?"
+  },
+  {
+    "english": "Whom should I contact?",
+    "french": "Qui dois-je contacter?",
+    "tamil": "Yeara santhikanum?"
+  },
+  {
+    "english": "Is it a book?",
+    "french": "Est-ce que c'est un livre?",
+    "tamil": "Ithu puthakama?"
+  },
+  {
+    "english": "It is a book",
+    "french": "C'est un livre",
+    "tamil": "Ithu puthakam"
+  },
+  {
+    "english": "Is it the answer?",
+    "french": "Est-ce la réponse?",
+    "tamil": "Ithuthaan badhila?"
+  },
+  {
+    "english": "It is the answer",
+    "french": "Il est la réponse",
+    "tamil": "Ithuthaan badhil?"
+  },
+  {
+    "english": "Will you come with me?",
+    "french": "Voulez-vous venir avec moi?",
+    "tamil": "Enkoda varuviya?"
+  },
+  {
+    "english": "I shall come with you.",
+    "french": "Je viendrai avec vous.",
+    "tamil": "Naan wunkoda varuven."
+  },
+  {
+    "english": "Will you give me your pen?",
+    "french": "Voulez-vous me donner votre stylo?",
+    "tamil": "Peanava kodupeengala?"
+  },
+  {
+    "english": "Yes, of course.",
+    "french": "Oui, bien sûr.",
+    "tamil": "Aama, pinna."
+  },
+  {
+    "english": "I love you",
+    "french": "je t'aime",
+    "tamil": "Naan Unnai Kadalikiren."
+  },
+  {
+    "english": "Can you give me your pen?",
+    "french": "Pouvez-vous me donner votre stylo?",
+    "tamil": "Peanava kudukka mudiyuma?"
+  },
+  {
+    "english": "Can you lift the box?",
+    "french": "Pouvez-vous soulever la boîte?",
+    "tamil": "Pettiya thookka mudiyumma?"
+  },
+  {
+    "english": "Can you write the exam?",
+    "french": "Pouvez-vous écrire l'examen?",
+    "tamil": "Paritchai elutha mudiyumma?"
+  },
+  {
+    "english": "Did you have your lunch?",
+    "french": "As-tu déjeuné?",
+    "tamil": "Madhiyaanam saappadu saapittiya?"
+  },
+  {
+    "english": "good morning",
+    "french": "Bonjour",
+    "tamil": "kalaivanakkam"
+  },
+  {
+    "english": "good evening",
+    "french": "Bonsoir",
+    "tamil": "maalai vanakkam"
+  },
+  {
+    "english": "welcome",
+    "french": "Bienvenue",
+    "tamil": "vaazhga"
+  },
+  {
+    "english": "sorry",
+    "french": "Pardon",
+    "tamil": "manichirunga"
+  },
+  {
+    "english": "take it",
+    "french": "prends-le",
+    "tamil": "eduthu kollungal"
+  },
+  {
+    "english": "thanks",
+    "french": "Merci",
+    "tamil": "romba nandri"
+  },
+  {
+    "english": "how are you?",
+    "french": "Comment allez-vous?",
+    "tamil": "eppadi irukkinga or nalamaa?"
+  },
+  {
+    "english": "and you?",
+    "french": "et vous?",
+    "tamil": "nienga?"
+  },
+  {
+    "english": "good/so",
+    "french": "bien alors",
+    "tamil": "sari"
+  },
+  {
+    "english": "thank you very much",
+    "french": "Merci beaucoup",
+    "tamil": "romba nandri"
+  },
+  {
+    "english": "you are welcome",
+    "french": "vous êtes les bienvenus",
+    "tamil": "paravaa illa"
+  },
+  {
+    "english": "hey,friend",
+    "french": "Hey, ami",
+    "tamil": "alo,nanbaa"
+  },
+  {
+    "english": "i missed you so much",
+    "french": "tu m'as tellement manqué",
+    "tamil": "unnai rumba izhanthu vittean"
+  },
+  {
+    "english": "waht's new",
+    "french": "quoi de neuf",
+    "tamil": "eanna seithi?"
+  },
+  {
+    "english": "nothing much",
+    "french": "pas grand chose",
+    "tamil": "onnum illai"
+  },
+  {
+    "english": "good night",
+    "french": "bonne nuit",
+    "tamil": "iravu vanakkam"
+  },
+  {
+    "english": "see you later",
+    "french": "à plus tard",
+    "tamil": "aparam paarkalam"
+  },
+  {
+    "english": "good bye",
+    "french": "Au revoir",
+    "tamil": "poittu varen"
+  },
+  {
+    "english": "am lost",
+    "french": "suis perdu",
+    "tamil": "enakku vazhi theriyala"
+  },
+  {
+    "english": "can i help you",
+    "french": "puis-je vous aider",
+    "tamil": "unakku udavattumaa?"
+  },
+  {
+    "english": "can you help me?",
+    "french": "Pouvez-vous m'aider?",
+    "tamil": "enakku udhavi seivienkala?"
+  },
+  {
+    "english": "where is the bathroom/pharmacy",
+    "french": "où est la salle de bain / pharmacie",
+    "tamil": "kazhivarai/marundukadai engea?"
+  },
+  {
+    "english": "go straight then turn left/right",
+    "french": "aller tout droit puis gauche / droite",
+    "tamil": "neraa ponga idathu valathu thirumunga"
+  },
+  {
+    "english": "one moment please",
+    "french": "un instant s'il vous plaît",
+    "tamil": "oru nimidam"
+  },
+  {
+    "english": "hold on please",
+    "french": "tenir s'il vous plaît",
+    "tamil": "irunga"
+  },
+  {
+    "english": "how much is this?",
+    "french": "combien ça coûte?",
+    "tamil": "idhu evvalavu"
+  },
+  {
+    "english": "excuse me",
+    "french": "Excusez-moi",
+    "tamil": "manikkanum or dhayavu seithu"
+  },
+  {
+    "english": "come with me",
+    "french": "viens avec moi",
+    "tamil": "ennodu vaa"
+  },
+  {
+    "english": "You",
+    "french": "Toi",
+    "tamil": "Nee / Neengal / Unnay / Ungalai"
+  },
+  {
+    "english": "Your",
+    "french": "Votre",
+    "tamil": "Unnudaiya / Ungaludaiya"
+  },
+  {
+    "english": "Yours",
+    "french": "Le tiens",
+    "tamil": "Unnudaiyathu / Ungaludaiyathu"
+  },
+  {
+    "english": "He",
+    "french": "Il",
+    "tamil": "Avan"
+  },
+  {
+    "english": "She",
+    "french": "Elle",
+    "tamil": "Aval"
+  },
+  {
+    "english": "Him",
+    "french": "Lui",
+    "tamil": "Avanay"
+  },
+  {
+    "english": "Her",
+    "french": "Sa",
+    "tamil": "Avalai / Avaludaiyathu"
+  },
+  {
+    "english": "His",
+    "french": "Le sien",
+    "tamil": "Avanudaiya / Avanudaiyathu"
+  },
+  {
+    "english": "They",
+    "french": "Ils",
+    "tamil": "Avargal / Avai"
+  },
+  {
+    "english": "Their",
+    "french": "Leur",
+    "tamil": "Avargaludaiya / Avargaludaiyathu"
+  },
+  {
+    "english": "Theirs",
+    "french": "Les leurs",
+    "tamil": "Avargaludaiyathu / Avaigaludaiyathu"
+  },
+  {
+    "english": "Them",
+    "french": "Leur",
+    "tamil": "Avargalai / Avaigalai"
+  },
+  {
+    "english": "It",
+    "french": "Il",
+    "tamil": "Adhu / Adhai"
+  },
+  {
+    "english": "Its",
+    "french": "Ses",
+    "tamil": "Adhanudaiya / Adhanudaiyathu"
+  },
+  {
+    "english": "Self",
+    "french": "Soi",
+    "tamil": "Thaan"
+  },
+  {
+    "english": "Myself",
+    "french": "Moi même",
+    "tamil": "Naanae"
+  },
+  {
+    "english": "Yourself",
+    "french": "Toi même",
+    "tamil": "Neeyae"
+  },
+  {
+    "english": "Himself",
+    "french": "Lui-même",
+    "tamil": "Avanae"
+  },
+  {
+    "english": "Itself",
+    "french": "lui-même",
+    "tamil": "Adhuvae"
+  },
+  {
+    "english": "Themselves",
+    "french": "Se",
+    "tamil": "Avargalae"
+  },
+  {
+    "english": "Ourselves",
+    "french": "Nous-mêmes",
+    "tamil": "Naamae / Naangalae"
+  },
+  {
+    "english": "This",
+    "french": "Cette",
+    "tamil": "Idhu / Ivan / Ival"
+  },
+  {
+    "english": "That",
+    "french": "Cette",
+    "tamil": "Adhu / Avan / Aval"
+  },
+  {
+    "english": "These",
+    "french": "Celles-ci",
+    "tamil": "Ivaigal / Ivargal"
+  },
+  {
+    "english": "Those",
+    "french": "Ceux",
+    "tamil": "Avargal / Avaigal"
+  },
+  {
+    "english": "Some",
+    "french": "Certains",
+    "tamil": "Sila / Silar"
+  },
+  {
+    "english": "Somebody",
+    "french": "quelqu'un",
+    "tamil": "Yaaroa"
+  },
+  {
+    "english": "Anybody",
+    "french": "N'importe qui",
+    "tamil": "Yaarkilum / Yaaravadhu"
+  },
+  {
+    "english": "Everybody",
+    "french": "Tout le monde",
+    "tamil": "Ellorrum"
+  },
+  {
+    "english": "Nobody",
+    "french": "Personne",
+    "tamil": "Yaarumillai"
+  },
+  {
+    "english": "Something",
+    "french": "Quelque chose",
+    "tamil": "Edhavathu Ondru"
+  },
+  {
+    "english": "Anything",
+    "french": "N'importe quoi",
+    "tamil": "Edhavathu"
+  },
+  {
+    "english": "Nothing",
+    "french": "Rien",
+    "tamil": "Ondrum illai"
+  },
+  {
+    "english": "Same",
+    "french": "Même",
+    "tamil": "Adhey"
+  },
+  {
+    "english": "Such",
+    "french": "Tel",
+    "tamil": "Adhu pondra"
+  },
+  {
+    "english": "Few",
+    "french": "Peu",
+    "tamil": "Konjam / Sila"
+  },
+  {
+    "english": "Many",
+    "french": "Beaucoup",
+    "tamil": "Pala / Palar / Nirayya"
+  },
+  {
+    "english": "Other",
+    "french": "Autre",
+    "tamil": "Martrondru / Vera"
+  },
+  {
+    "english": "Others",
+    "french": "Autres",
+    "tamil": "Pira / Pirar"
+  },
+  {
+    "english": "Affectionate",
+    "french": "Affectueux",
+    "tamil": "Paasammikka / Paasamulla / Priyamulla"
+  },
+  {
+    "english": "Clever",
+    "french": "Intelligent",
+    "tamil": "Thiramaiyana / Buddhisaali"
+  },
+  {
+    "english": "Generous",
+    "french": "généreuse",
+    "tamil": "Dharaala manapaanmai konda"
+  },
+  {
+    "english": "Innocent",
+    "french": "Innocent",
+    "tamil": "Veguliaana"
+  },
+  {
+    "english": "Humorous",
+    "french": "Humoristique",
+    "tamil": "Nagaisuvai unarvulla"
+  },
+  {
+    "english": "Short tempered",
+    "french": "court trempé",
+    "tamil": "Mun Kobam Konda"
+  },
+  {
+    "english": "Sensible",
+    "french": "Sensible",
+    "tamil": "Arivulla"
+  },
+  {
+    "english": "Well educated",
+    "french": "Bien éduqué",
+    "tamil": "Nangu padiththa"
+  },
+  {
+    "english": "Arrogant",
+    "french": "Arrogant",
+    "tamil": "Garvamudaiya / Aanavamulla"
+  },
+  {
+    "english": "Brave",
+    "french": "Courageux",
+    "tamil": "Dhairiyamana"
+  },
+  {
+    "english": "Dangerous",
+    "french": "Dangereux",
+    "tamil": "Aabaththaana"
+  },
+  {
+    "english": "Helpful",
+    "french": "Utile",
+    "tamil": "Udavikaramaana / Payanudaiya"
+  },
+  {
+    "english": "Indifferent",
+    "french": "Indifférent",
+    "tamil": "Alatchiyamaana"
+  },
+  {
+    "english": "Jealous",
+    "french": "Jaloux",
+    "tamil": "Poaraamaiyaana"
+  },
+  {
+    "english": "Mischivous",
+    "french": "Mischivous",
+    "tamil": "Kurumbuthanamaana"
+  },
+  {
+    "english": "Proud",
+    "french": "Fier",
+    "tamil": "Garvamaana/Perumidhamaana"
+  },
+  {
+    "english": "Sensitive",
+    "french": "Sensible",
+    "tamil": "Unarchivasappadum"
+  },
+  {
+    "english": "Sincere",
+    "french": "Sincère",
+    "tamil": "Unmaiyaana"
+  },
+  {
+    "english": "Strict",
+    "french": "Strict",
+    "tamil": "Kandipaana"
+  },
+  {
+    "english": "Timid",
+    "french": "Timide",
+    "tamil": "Dhairiyamilladha"
+  },
+  {
+    "english": "Violent",
+    "french": "Violent",
+    "tamil": "Kodumaiyana, Muradu"
+  },
+  {
+    "english": "Weak",
+    "french": "Faible",
+    "tamil": "Melindha / Valimai Kunriya"
+  },
+  {
+    "english": "Adament",
+    "french": "adament",
+    "tamil": "Pidivathamana"
+  },
+  {
+    "english": "Efficient",
+    "french": "Efficace",
+    "tamil": "Samarthiyamana, Thiramaimikka"
+  },
+  {
+    "english": "Famous",
+    "french": "Célèbre",
+    "tamil": "Pugazh vaaindha"
+  },
+  {
+    "english": "Gentle",
+    "french": "Doux",
+    "tamil": "Mariyaadhaiyaana / Menmaiyaana"
+  },
+  {
+    "english": "Honest",
+    "french": "Honnête",
+    "tamil": "Nermaiyaana"
+  },
+  {
+    "english": "Kind",
+    "french": "Gentil",
+    "tamil": "Anbaana"
+  },
+  {
+    "english": "Notorious",
+    "french": "Célèbre",
+    "tamil": "Theeyavaigallil prabhalamana / Kettap Peyareduththa"
+  },
+  {
+    "english": "Polite",
+    "french": "Poli",
+    "tamil": "Panivaana"
+  },
+  {
+    "english": "Quiet",
+    "french": "Silencieux",
+    "tamil": "Amaithiyaana"
+  },
+  {
+    "english": "Selfish",
+    "french": "Égoïste",
+    "tamil": "Suyanalamaana"
+  },
+  {
+    "english": "Straight forward",
+    "french": "Simple",
+    "tamil": "Olivumaraivartra, Nermaiyulla"
+  },
+  {
+    "english": "Talented",
+    "french": "Talentueux",
+    "tamil": "Thiramaiyana"
+  },
+  {
+    "english": "Useless",
+    "french": "Inutile",
+    "tamil": "Ubayogamatra , Udhavaakarai"
+  },
+  {
+    "english": "Well off",
+    "french": "Je gagne bien ma",
+    "tamil": "Vasathiyulla"
+  },
+  {
+    "english": "Slippery",
+    "french": "Glissant",
+    "tamil": "Vazhukkalaana"
+  },
+  {
+    "english": "Uneven",
+    "french": "Inégal",
+    "tamil": "Samamillaamal"
+  },
+  {
+    "english": "Narrow",
+    "french": "Étroit",
+    "tamil": "Kurugalaana"
+  },
+  {
+    "english": "Broad",
+    "french": "Vaste",
+    "tamil": "Agalamaana"
+  },
+  {
+    "english": "Congested",
+    "french": "Congestionné",
+    "tamil": "Nerisalaana"
+  },
+  {
+    "english": "Clean",
+    "french": "Nettoyer",
+    "tamil": "Suththamaana"
+  },
+  {
+    "english": "Crowded",
+    "french": "Bondé",
+    "tamil": "Kuutamaana / Kuutam Niraindha"
+  },
+  {
+    "english": "Water logged",
+    "french": "gorgés d'eau",
+    "tamil": "Thanneer Thengiya"
+  },
+  {
+    "english": "Slushy",
+    "french": "Détrempé",
+    "tamil": "Saerum Sagathiyumaaga"
+  },
+  {
+    "english": "Smooth",
+    "french": "Lisse",
+    "tamil": "Menmaiyaana"
+  },
+  {
+    "english": "Convenient",
+    "french": "Pratique",
+    "tamil": "Vasathiyaana"
+  },
+  {
+    "english": "Bright",
+    "french": "Brillant",
+    "tamil": "Vellichchamaana"
+  },
+  {
+    "english": "Airy",
+    "french": "Airy",
+    "tamil": "Kartrotamaana"
+  },
+  {
+    "english": "Big and Spacious",
+    "french": "Grande et spacieuse",
+    "tamil": "Periya Visaalamaana"
+  },
+  {
+    "english": "Stuffy",
+    "french": "Bouché",
+    "tamil": "Adaisalaana"
+  },
+  {
+    "english": "Untidy",
+    "french": "Désordonné",
+    "tamil": "Ozhungartra"
+  },
+  {
+    "english": "Remote",
+    "french": "Éloigné",
+    "tamil": "Tholaivil Ulla"
+  },
+  {
+    "english": "Vacant",
+    "french": "Vacant",
+    "tamil": "Gaaliyaga"
+  },
+  {
+    "english": "Dilapidated",
+    "french": "Délabré",
+    "tamil": "Pazhadaintha"
+  },
+  {
+    "english": "Well lentilated",
+    "french": "Eh bien lentilated",
+    "tamil": "Kartrotamaana"
+  },
+  {
+    "english": "Ago",
+    "french": "Depuis",
+    "tamil": "Munbu / Munnadi"
+  },
+  {
+    "english": "Afterwards",
+    "french": "Ensuite",
+    "tamil": "Piragu"
+  },
+  {
+    "english": "Then",
+    "french": "ensuite",
+    "tamil": "Appozhudhu / Piragu"
+  },
+  {
+    "english": "Lately",
+    "french": "Dernièrement",
+    "tamil": "Kalamthazhndhu / Anmaiyil"
+  },
+  {
+    "english": "Immediately",
+    "french": "Immédiatement",
+    "tamil": "Udanae"
+  },
+  {
+    "english": "Yet",
+    "french": "Encore",
+    "tamil": "Idhuvarai / Irundhum"
+  },
+  {
+    "english": "Daily",
+    "french": "du quotidien",
+    "tamil": "Thinasari / Dhinamthoarum"
+  },
+  {
+    "english": "Weekly",
+    "french": "Hebdomadaire",
+    "tamil": "Varanthorum"
+  },
+  {
+    "english": "Monthly",
+    "french": "Mensuel",
+    "tamil": "Madhamthorum"
+  },
+  {
+    "english": "Yearly",
+    "french": "Annuel",
+    "tamil": "Varudamthorum"
+  },
+  {
+    "english": "Again",
+    "french": "Encore",
+    "tamil": "Marupadiyum"
+  },
+  {
+    "english": "Often",
+    "french": "Souvent",
+    "tamil": "Adikkadi"
+  },
+  {
+    "english": "Always",
+    "french": "Toujours",
+    "tamil": "Eppozhudum"
+  },
+  {
+    "english": "At that time",
+    "french": "À ce moment-là",
+    "tamil": "Andha Neraththil"
+  },
+  {
+    "english": "Before",
+    "french": "Avant",
+    "tamil": "Munnal"
+  },
+  {
+    "english": "Rarely",
+    "french": "Rarement",
+    "tamil": "Arithaga"
+  },
+  {
+    "english": "Early",
+    "french": "De bonne heure",
+    "tamil": "Munnadhagavae"
+  },
+  {
+    "english": "Ever",
+    "french": "Déjà",
+    "tamil": "Eppozhudum"
+  },
+  {
+    "english": "Recently",
+    "french": "Récemment",
+    "tamil": "Anmaiyil"
+  },
+  {
+    "english": "Frequently",
+    "french": "Fréquemment",
+    "tamil": "Adikkadi"
+  },
+  {
+    "english": "Already",
+    "french": "Déjà",
+    "tamil": "Munbae"
+  },
+  {
+    "english": "Quickly",
+    "french": "Rapidement",
+    "tamil": "Viraivaga"
+  },
+  {
+    "english": "Regularly",
+    "french": "Régulièrement",
+    "tamil": "Thodarnthu /Muraiyaga /Ozhungaga"
+  },
+  {
+    "english": "Always",
+    "french": "Toujours",
+    "tamil": "Eppozhudum"
+  },
+  {
+    "english": "Since",
+    "french": "Puisque",
+    "tamil": "Irundhu"
+  },
+  {
+    "english": "Never",
+    "french": "Jamais",
+    "tamil": "Oru Podhum illai"
+  },
+  {
+    "english": "Just now",
+    "french": "Juste maintenant",
+    "tamil": "Ipozhudhuthan"
+  },
+  {
+    "english": "Every day",
+    "french": "Tous les jours",
+    "tamil": "Ovvoru naalum / Ovvuru dhinamum"
+  },
+  {
+    "english": "Once",
+    "french": "Une fois que",
+    "tamil": "Oru Murai"
+  },
+  {
+    "english": "So far",
+    "french": "Jusque là",
+    "tamil": "Idhuvarai"
+  },
+  {
+    "english": "Yesterday",
+    "french": "Hier",
+    "tamil": "Netru"
+  },
+  {
+    "english": "To-day",
+    "french": "Aujourd'hui",
+    "tamil": "Indru"
+  },
+  {
+    "english": "Tomorrow",
+    "french": "Demain",
+    "tamil": "Naalai"
+  },
+  {
+    "english": "For a point of time",
+    "french": "Pour un point de temps",
+    "tamil": "Oru kurupitta kaalam varai"
+  },
+  {
+    "english": "On time",
+    "french": "À temps",
+    "tamil": "Kuriththa naeraththil"
+  },
+  {
+    "english": "In time",
+    "french": "À l'heure",
+    "tamil": "Kuriththa naeraththirkul"
+  },
+  {
+    "english": "Home",
+    "french": "Accueil",
+    "tamil": "Veedu / Veetil"
+  },
+  {
+    "english": "Out",
+    "french": "En dehors",
+    "tamil": "Velliyae"
+  },
+  {
+    "english": "Outside",
+    "french": "À l'extérieur",
+    "tamil": "Vellipakkam"
+  },
+  {
+    "english": "In",
+    "french": "Dans",
+    "tamil": "Ullae"
+  },
+  {
+    "english": "Inside",
+    "french": "À l'intérieur",
+    "tamil": "Ullpakkam /Utpakkam"
+  },
+  {
+    "english": "Anywhere",
+    "french": "Nulle part",
+    "tamil": "Endha idathilum"
+  },
+  {
+    "english": "Somewhere",
+    "french": "Quelque part",
+    "tamil": "Engaeyavathu"
+  },
+  {
+    "english": "Everywhere",
+    "french": "Partout",
+    "tamil": "Ella Idangalilum / Ella Idathilum"
+  },
+  {
+    "english": "Nowhere",
+    "french": "Nulle part",
+    "tamil": "Engaeyumillai"
+  },
+  {
+    "english": "Far away",
+    "french": "Loin",
+    "tamil": "Migath tholaivil / Romba dhoorathil"
+  },
+  {
+    "english": "Here",
+    "french": "Ici",
+    "tamil": "Ingae"
+  },
+  {
+    "english": "There",
+    "french": "Là",
+    "tamil": "Angae/ Aear"
+  },
+  {
+    "english": "Away",
+    "french": "Un moyen",
+    "tamil": "Dhuuram"
+  },
+  {
+    "english": "Off",
+    "french": "De",
+    "tamil": "Tholaivil"
+  },
+  {
+    "english": "Up",
+    "french": "en haut",
+    "tamil": "Maelae"
+  },
+  {
+    "english": "Upstairs",
+    "french": "En haut",
+    "tamil": "Maadiyil / Melthalam"
+  },
+  {
+    "english": "Down",
+    "french": "Vers le bas",
+    "tamil": "Kizhae"
+  },
+  {
+    "english": "Downstairs",
+    "french": "En bas",
+    "tamil": "Kizhthalam / kizhthalathil"
+  },
+  {
+    "english": "Far",
+    "french": "Loin",
+    "tamil": "Tholaivil / Dhoorathil"
+  },
+  {
+    "english": "Politely",
+    "french": "Poliment",
+    "tamil": "Mariyathaiyaga"
+  },
+  {
+    "english": "Honestly",
+    "french": "Honnêtement",
+    "tamil": "Nermaiyaga"
+  },
+  {
+    "english": "Patiently",
+    "french": "patiemment",
+    "tamil": "Porumaiyaga"
+  },
+  {
+    "english": "Warmly",
+    "french": "Chaleureusement",
+    "tamil": "Priyamaga"
+  },
+  {
+    "english": "Obediently",
+    "french": "Obéissant",
+    "tamil": "Thazhmaiyaga"
+  },
+  {
+    "english": "Cleverly",
+    "french": "Habilement",
+    "tamil": "Sathuriyamaga"
+  },
+  {
+    "english": "Boldly",
+    "french": "Hardiment",
+    "tamil": "Dhairiyamaga"
+  },
+  {
+    "english": "Bravely",
+    "french": "Courageusement",
+    "tamil": "Thunichalaga"
+  },
+  {
+    "english": "Perfectly",
+    "french": "à la perfection",
+    "tamil": "Kachithamaga"
+  },
+  {
+    "english": "Sadly",
+    "french": "Malheureusement",
+    "tamil": "Soagamaga"
+  },
+  {
+    "english": "Accidentally",
+    "french": "Accidentellement",
+    "tamil": "Ethirparathavidhamaga"
+  },
+  {
+    "english": "Usually",
+    "french": "habituellement",
+    "tamil": "Vazhakamaga"
+  },
+  {
+    "english": "Generally",
+    "french": "Généralement",
+    "tamil": "Poduvaga"
+  },
+  {
+    "english": "Hardly",
+    "french": "À peine",
+    "tamil": "Arithaga"
+  },
+  {
+    "english": "Normally",
+    "french": "Normalement",
+    "tamil": "Pothuvaga"
+  },
+  {
+    "english": "Slowly",
+    "french": "Lentement",
+    "tamil": "Meduvaga"
+  },
+  {
+    "english": "Quickly",
+    "french": "Rapidement",
+    "tamil": "Viraivaga"
+  },
+  {
+    "english": "Quietly",
+    "french": "Tranquillement",
+    "tamil": "Amaithiyaga"
+  },
+  {
+    "english": "Indirectly",
+    "french": "Indirectement",
+    "tamil": "Maraimugamaga"
+  },
+  {
+    "english": "Mostly",
+    "french": "La plupart",
+    "tamil": "Perumpalum"
+  },
+  {
+    "english": "Indeed",
+    "french": "En effet",
+    "tamil": "Unmaiyil"
+  },
+  {
+    "english": "Luckily",
+    "french": "Heureusement",
+    "tamil": "Athirshtavasamaga"
+  },
+  {
+    "english": "Happily",
+    "french": "Heureusement",
+    "tamil": "Sandoshamaga"
+  },
+  {
+    "english": "Carefully",
+    "french": "Soigneusement",
+    "tamil": "Gavanamaga"
+  },
+  {
+    "english": "Eagerly",
+    "french": "Vivement",
+    "tamil": "Arvamaga"
+  },
+  {
+    "english": "Beautifully",
+    "french": "magnifiquement",
+    "tamil": "Azhagaga"
+  },
+  {
+    "english": "Personally",
+    "french": "Personnellement",
+    "tamil": "Andharangamaga / Neradiyaga"
+  },
+  {
+    "english": "Nicely",
+    "french": "Bien",
+    "tamil": "Enimaiyaga"
+  },
+  {
+    "english": "Seriously",
+    "french": "Sérieusement",
+    "tamil": "Abathaga"
+  },
+  {
+    "english": "Purposely",
+    "french": "À dessein",
+    "tamil": "Vendummenrae"
+  },
+  {
+    "english": "Loudly",
+    "french": "Bruyamment",
+    "tamil": "Saththamaga"
+  },
+  {
+    "english": "Proudly",
+    "french": "Fièrement",
+    "tamil": "Garvamaga"
+  },
+  {
+    "english": "Promptly",
+    "french": "Rapidement",
+    "tamil": "Sariyaga/ Kalam thazhthamal"
+  },
+  {
+    "english": "Strictly",
+    "french": "Strictement",
+    "tamil": "Kandippaga"
+  },
+  {
+    "english": "Thoroughly",
+    "french": "Complètement",
+    "tamil": "Muzhumaiyaga"
+  },
+  {
+    "english": "Unfortunately",
+    "french": "Malheureusement",
+    "tamil": "Thurathirshtavasamaga"
+  },
+  {
+    "english": "Wholly",
+    "french": "Entièrement",
+    "tamil": "Muzhumaiyaga / Niraivaga"
+  },
+  {
+    "english": "After",
+    "french": "Après",
+    "tamil": "Piragu"
+  },
+  {
+    "english": "Although",
+    "french": "Bien que",
+    "tamil": "Irundhalum"
+  },
+  {
+    "english": "And",
+    "french": "Et",
+    "tamil": "Melum,Kuda"
+  },
+  {
+    "english": "Because",
+    "french": "Parce que",
+    "tamil": "Yenenil"
+  },
+  {
+    "english": "Before",
+    "french": "Avant",
+    "tamil": "Munnal"
+  },
+  {
+    "english": "But",
+    "french": "Mais",
+    "tamil": "Aanaal, Ere, Munbu"
+  },
+  {
+    "english": "Except",
+    "french": "Sauf",
+    "tamil": "Andri"
+  },
+  {
+    "english": "For",
+    "french": "Pour",
+    "tamil": "Yenenil"
+  },
+  {
+    "english": "How",
+    "french": "Comment",
+    "tamil": "Eppadi,Evvaru"
+  },
+  {
+    "english": "If",
+    "french": "Si",
+    "tamil": "Apadiyaanal"
+  },
+  {
+    "english": "Neither",
+    "french": "Ni",
+    "tamil": "Idhuve enil Adhuvum illai"
+  },
+  {
+    "english": "Only",
+    "french": "Seulement",
+    "tamil": "Aayinum,Eninum"
+  },
+  {
+    "english": "Or",
+    "french": "Ou",
+    "tamil": "Alladhu"
+  },
+  {
+    "english": "Since",
+    "french": "Puisque",
+    "tamil": "Idhu varai"
+  },
+  {
+    "english": "So",
+    "french": "Alors",
+    "tamil": "Endraal"
+  },
+  {
+    "english": "Than",
+    "french": "Que",
+    "tamil": "vida"
+  },
+  {
+    "english": "That",
+    "french": "Cette",
+    "tamil": "Enave,Adhu"
+  },
+  {
+    "english": "Then",
+    "french": "ensuite",
+    "tamil": "Apadiyaanal"
+  },
+  {
+    "english": "Therefore",
+    "french": "Donc",
+    "tamil": "Aagaiyaal"
+  },
+  {
+    "english": "Though",
+    "french": "Bien que",
+    "tamil": "Ena Irundhalum,Endrapodhilum"
+  },
+  {
+    "english": "As Though",
+    "french": "Comme si",
+    "tamil": "Endru irundadhu pola"
+  },
+  {
+    "english": "Unless",
+    "french": "Sauf si",
+    "tamil": "Endrillaamal,Illavidil"
+  },
+  {
+    "english": "Until",
+    "french": "Jusqu'à ce que",
+    "tamil": "Adhuvaraiyil"
+  },
+  {
+    "english": "Unto",
+    "french": "Unto",
+    "tamil": "Varai"
+  },
+  {
+    "english": "Where as",
+    "french": "Tandis que",
+    "tamil": "Apadiyiruka"
+  },
+  {
+    "english": "While",
+    "french": "Tandis que",
+    "tamil": "Ade samayam,Satru neram"
+  },
+  {
+    "english": "Whether",
+    "french": "Qu'il s'agisse",
+    "tamil": "Irandinul Edhuvendru"
+  },
+  {
+    "english": "Yet",
+    "french": "Encore",
+    "tamil": "Melum,Irundhapodhilum"
+  }
+]
