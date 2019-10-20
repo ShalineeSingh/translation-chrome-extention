@@ -7,11 +7,12 @@ import data from '../../assets/data.json';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
-  translated_data: Word[] = data;
-  selected_word: Word;
+  translated_data = data;
+  selected_word: any;
   current_time: number;
-  filtered_data: Word[];
+  filtered_data: any[];
   search_text: string;
+  keys_list: any[];
   constructor() { }
 
   ngOnInit() {
@@ -19,7 +20,7 @@ export class HomeComponent implements OnInit {
     setInterval(() => {
       this.current_time = Date.now();
     }, 1000);
-    this.selected_word = data[Math.floor(Math.random() * data.length)];
+    this.getNewWord();
   }
 
   generateGradient() {
@@ -42,12 +43,26 @@ export class HomeComponent implements OnInit {
   }
   onSearchChange(filter_text) {
     this.search_text = filter_text;
-    this.filtered_data = this.translated_data.filter(
-      datum => (datum.english.indexOf(filter_text) > -1 || datum.tamil.indexOf(filter_text) > -1 || datum.french.indexOf(filter_text) > -1));
-
+    let filteredList = [];
+    if (this.translated_data.length > 0) {
+      filter_text = filter_text.toLowerCase();
+      this.translated_data.forEach(item => {
+        let propValueList = Object.values(item);
+        for (let i = 0; i < propValueList.length; i++) {
+          if (propValueList[i]) {
+            if (propValueList[i].toString().toLowerCase().indexOf(filter_text) > -1) {
+              filteredList.push(item);
+              break;
+            }
+          }
+        }
+      });
+    }
+    this.filtered_data = filteredList;
   }
 
   getNewWord() {
     this.selected_word = data[Math.floor(Math.random() * data.length)];
+    this.keys_list = Object.keys(this.selected_word);
   }
 }

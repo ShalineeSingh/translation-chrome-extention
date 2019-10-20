@@ -1,2281 +1,2282 @@
 [{
-    "english": "water",
-    "french": "l'eau",
-    "tamil": "Thaneer"
+    "base": "water",
+    "French": "l'eau",
+    "Tamil": "Thaneer",
+    "Hindi": "Pani"
   },
   {
-    "english": "mother",
-    "french": "mère",
-    "tamil": "amma"
+    "base": "mother",
+    "French": "mère",
+    "Tamil": "amma"
   },
   {
-    "english": "father",
-    "french": "père",
-    "tamil": "appa"
+    "base": "father",
+    "French": "père",
+    "Tamil": "appa"
   },
   {
-    "english": "elder brother",
-    "french": "grand frère",
-    "tamil": "anna"
+    "base": "elder brother",
+    "French": "grand frère",
+    "Tamil": "anna"
   },
   {
-    "english": "elder sister",
-    "french": "sœur ainée",
-    "tamil": "akka"
+    "base": "elder sister",
+    "French": "sœur ainée",
+    "Tamil": "akka"
   },
   {
-    "english": "younger brother",
-    "french": "frère cadet",
-    "tamil": "thambi"
+    "base": "younger brother",
+    "French": "frère cadet",
+    "Tamil": "thambi"
   },
   {
-    "english": "younger sister",
-    "french": "sœur cadette",
-    "tamil": "thangai"
+    "base": "younger sister",
+    "French": "sœur cadette",
+    "Tamil": "thangai"
   },
   {
-    "english": "white",
-    "french": "blanc",
-    "tamil": "venmai"
+    "base": "white",
+    "French": "blanc",
+    "Tamil": "venmai"
   },
   {
-    "english": "black",
-    "french": "noir",
-    "tamil": "karuppu"
+    "base": "black",
+    "French": "noir",
+    "Tamil": "karuppu"
   },
   {
-    "english": "blue",
-    "french": "bleu",
-    "tamil": "neelam"
+    "base": "blue",
+    "French": "bleu",
+    "Tamil": "neelam"
   },
   {
-    "english": "red",
-    "french": "rouge",
-    "tamil": "sivappu"
+    "base": "red",
+    "French": "rouge",
+    "Tamil": "sivappu"
   },
   {
-    "english": "yellow",
-    "french": "Jaune",
-    "tamil": "manjal"
+    "base": "yellow",
+    "French": "Jaune",
+    "Tamil": "manjal"
   },
   {
-    "english": "grey",
-    "french": "gris",
-    "tamil": "pazhupu"
+    "base": "grey",
+    "French": "gris",
+    "Tamil": "pazhupu"
   },
   {
-    "english": "Green",
-    "french": "vert",
-    "tamil": "Pachai"
+    "base": "Green",
+    "French": "vert",
+    "Tamil": "Pachai"
   },
   {
-    "english": "I",
-    "french": "je",
-    "tamil": "Naan"
+    "base": "I",
+    "French": "je",
+    "Tamil": "Naan"
   },
   {
-    "english": "you",
-    "french": "toi",
-    "tamil": "Nee"
+    "base": "you",
+    "French": "toi",
+    "Tamil": "Nee"
   },
   {
-    "english": "We",
-    "french": "nous",
-    "tamil": "Naam"
+    "base": "We",
+    "French": "nous",
+    "Tamil": "Naam"
   },
   {
-    "english": "He",
-    "french": "Il",
-    "tamil": "Avar"
+    "base": "He",
+    "French": "Il",
+    "Tamil": "Avar"
   },
   {
-    "english": "She",
-    "french": "Elle",
-    "tamil": "Aval"
+    "base": "She",
+    "French": "Elle",
+    "Tamil": "Aval"
   },
   {
-    "english": "His",
-    "french": "Le sien",
-    "tamil": "Ivar"
+    "base": "His",
+    "French": "Le sien",
+    "Tamil": "Ivar"
   },
   {
-    "english": "Her",
-    "french": "Sa",
-    "tamil": "Ival"
+    "base": "Her",
+    "French": "Sa",
+    "Tamil": "Ival"
   },
   {
-    "english": "All of you",
-    "french": "Vous tous",
-    "tamil": "Neengal"
+    "base": "All of you",
+    "French": "Vous tous",
+    "Tamil": "Neengal"
   },
   {
-    "english": "Sorry",
-    "french": "Pardon",
-    "tamil": "Mannipu"
+    "base": "Sorry",
+    "French": "Pardon",
+    "Tamil": "Mannipu"
   },
   {
-    "english": "Thanks",
-    "french": "Merci",
-    "tamil": "Nandri"
+    "base": "Thanks",
+    "French": "Merci",
+    "Tamil": "Nandri"
   },
   {
-    "english": "Taste",
-    "french": "Goût",
-    "tamil": "Suvai"
+    "base": "Taste",
+    "French": "Goût",
+    "Tamil": "Suvai"
   },
   {
-    "english": "Come",
-    "french": "Viens",
-    "tamil": "Vaa"
+    "base": "Come",
+    "French": "Viens",
+    "Tamil": "Vaa"
   },
   {
-    "english": "Go",
-    "french": "Aller",
-    "tamil": "Po"
+    "base": "Go",
+    "French": "Aller",
+    "Tamil": "Po"
   },
   {
-    "english": "Come(With respect)",
-    "french": "Venez (En ce qui concerne)",
-    "tamil": "Vaanga"
+    "base": "Come(With respect)",
+    "French": "Venez (En ce qui concerne)",
+    "Tamil": "Vaanga"
   },
   {
-    "english": "Go(With respect)",
-    "french": "Go (En ce qui concerne)",
-    "tamil": "Ponga"
+    "base": "Go(With respect)",
+    "French": "Go (En ce qui concerne)",
+    "Tamil": "Ponga"
   },
   {
-    "english": "Today",
-    "french": "Aujourd'hui",
-    "tamil": "Indru"
+    "base": "Today",
+    "French": "Aujourd'hui",
+    "Tamil": "Indru"
   },
   {
-    "english": "Yesterday",
-    "french": "Hier",
-    "tamil": "Netru"
+    "base": "Yesterday",
+    "French": "Hier",
+    "Tamil": "Netru"
   },
   {
-    "english": "Tomorrow",
-    "french": "Demain",
-    "tamil": "Naalai"
+    "base": "Tomorrow",
+    "French": "Demain",
+    "Tamil": "Naalai"
   },
   {
-    "english": "Zero",
-    "french": "Zéro",
-    "tamil": "Poojyam"
+    "base": "Zero",
+    "French": "Zéro",
+    "Tamil": "Poojyam"
   },
   {
-    "english": "One",
-    "french": "Un",
-    "tamil": "Ondru"
+    "base": "One",
+    "French": "Un",
+    "Tamil": "Ondru"
   },
   {
-    "english": "Two",
-    "french": "Deux",
-    "tamil": "Irandu"
+    "base": "Two",
+    "French": "Deux",
+    "Tamil": "Irandu"
   },
   {
-    "english": "Three",
-    "french": "Trois",
-    "tamil": "Moondru"
+    "base": "Three",
+    "French": "Trois",
+    "Tamil": "Moondru"
   },
   {
-    "english": "Four",
-    "french": "quatre",
-    "tamil": "Naangu"
+    "base": "Four",
+    "French": "quatre",
+    "Tamil": "Naangu"
   },
   {
-    "english": "Five",
-    "french": "Cinq",
-    "tamil": "Aindhu"
+    "base": "Five",
+    "French": "Cinq",
+    "Tamil": "Aindhu"
   },
   {
-    "english": "Six",
-    "french": "Six",
-    "tamil": "Aaru"
+    "base": "Six",
+    "French": "Six",
+    "Tamil": "Aaru"
   },
   {
-    "english": "Seven",
-    "french": "Sept",
-    "tamil": "Eazhu"
+    "base": "Seven",
+    "French": "Sept",
+    "Tamil": "Eazhu"
   },
   {
-    "english": "Eight",
-    "french": "Huit",
-    "tamil": "Ettu"
+    "base": "Eight",
+    "French": "Huit",
+    "Tamil": "Ettu"
   },
   {
-    "english": "Nine",
-    "french": "Neuf",
-    "tamil": "Onbadhu"
+    "base": "Nine",
+    "French": "Neuf",
+    "Tamil": "Onbadhu"
   },
   {
-    "english": "Ten",
-    "french": "cette",
-    "tamil": "Pathu"
+    "base": "Ten",
+    "French": "cette",
+    "Tamil": "Pathu"
   },
   {
-    "english": "Eleven",
-    "french": "Onze",
-    "tamil": "Pathinondru (Pathu+Ondru)"
+    "base": "Eleven",
+    "French": "Onze",
+    "Tamil": "Pathinondru (Pathu+Ondru)"
   },
   {
-    "english": "Twelve",
-    "french": "Douze",
-    "tamil": "Pannirandu(Pathu+Irandu)"
+    "base": "Twelve",
+    "French": "Douze",
+    "Tamil": "Pannirandu(Pathu+Irandu)"
   },
   {
-    "english": "Thriteen",
-    "french": "Thriteen",
-    "tamil": "Pathimoondru"
+    "base": "Thriteen",
+    "French": "Thriteen",
+    "Tamil": "Pathimoondru"
   },
   {
-    "english": "Twenty",
-    "french": "Vingt",
-    "tamil": "IruPathu( Irandu+Pathu)"
+    "base": "Twenty",
+    "French": "Vingt",
+    "Tamil": "IruPathu( Irandu+Pathu)"
   },
   {
-    "english": "how",
-    "french": "Comment",
-    "tamil": "Eppadi"
+    "base": "how",
+    "French": "Comment",
+    "Tamil": "Eppadi"
   },
   {
-    "english": "hello",
-    "french": "salut",
-    "tamil": "vanakkam"
+    "base": "hello",
+    "French": "salut",
+    "Tamil": "vanakkam"
   },
   {
-    "english": "Good Morning",
-    "french": "Bonjour",
-    "tamil": "Kaalai vanakkam"
+    "base": "Good Morning",
+    "French": "Bonjour",
+    "Tamil": "Kaalai vanakkam"
   },
   {
-    "english": "Good Afternoon",
-    "french": "Bonne après-midi",
-    "tamil": "Madhiya vanakkam"
+    "base": "Good Afternoon",
+    "French": "Bonne après-midi",
+    "Tamil": "Madhiya vanakkam"
   },
   {
-    "english": "Good Evening",
-    "french": "Bonsoir",
-    "tamil": "Maalai vanakkam"
+    "base": "Good Evening",
+    "French": "Bonsoir",
+    "Tamil": "Maalai vanakkam"
   },
   {
-    "english": "Good Night",
-    "french": "Bonne nuit",
-    "tamil": "Iniya iravu"
+    "base": "Good Night",
+    "French": "Bonne nuit",
+    "Tamil": "Iniya iravu"
   },
   {
-    "english": "Morning",
-    "french": "Matin",
-    "tamil": "Kaalai"
+    "base": "Morning",
+    "French": "Matin",
+    "Tamil": "Kaalai"
   },
   {
-    "english": "Afternoon",
-    "french": "Après midi",
-    "tamil": "Madhiyam"
+    "base": "Afternoon",
+    "French": "Après midi",
+    "Tamil": "Madhiyam"
   },
   {
-    "english": "Evening",
-    "french": "Soirée",
-    "tamil": "Maalai"
+    "base": "Evening",
+    "French": "Soirée",
+    "Tamil": "Maalai"
   },
   {
-    "english": "Night",
-    "french": "Nuit",
-    "tamil": "Iravu"
+    "base": "Night",
+    "French": "Nuit",
+    "Tamil": "Iravu"
   },
   {
-    "english": "Hello, What are the food items available ?",
-    "french": "Salut, Quels sont les produits alimentaires disponibles?",
-    "tamil": "Vanakkam, enna unavu vagaigal Iruku ?"
+    "base": "Hello, What are the food items available ?",
+    "French": "Salut, Quels sont les produits alimentaires disponibles?",
+    "Tamil": "Vanakkam, enna unavu vagaigal Iruku ?"
   },
   {
-    "english": "Please give me two idlies",
-    "french": "S'il vous plaît donnez-moi deux idlies",
-    "tamil": "Enaku Irandu Idly kudunga"
+    "base": "Please give me two idlies",
+    "French": "S'il vous plaît donnez-moi deux idlies",
+    "Tamil": "Enaku Irandu Idly kudunga"
   },
   {
-    "english": "Please Give me one coffee",
-    "french": "Donnez-moi s'il vous plaît un café",
-    "tamil": "Enaku oru Coffee kudunga"
+    "base": "Please Give me one coffee",
+    "French": "Donnez-moi s'il vous plaît un café",
+    "Tamil": "Enaku oru Coffee kudunga"
   },
   {
-    "english": "No Sugar",
-    "french": "Sans sucre",
-    "tamil": "Sarkarai vendam"
+    "base": "No Sugar",
+    "French": "Sans sucre",
+    "Tamil": "Sarkarai vendam"
   },
   {
-    "english": "I want strong coffee",
-    "french": "Je veux du café fort",
-    "tamil": "Enaku Thidamana coffee vendum"
+    "base": "I want strong coffee",
+    "French": "Je veux du café fort",
+    "Tamil": "Enaku Thidamana coffee vendum"
   },
   {
-    "english": "How much is the total ?",
-    "french": "Quelle est l'addition ?",
-    "tamil": "Motham Evalavu aachu ?"
+    "base": "How much is the total ?",
+    "French": "Quelle est l'addition ?",
+    "Tamil": "Motham Evalavu aachu ?"
   },
   {
-    "english": "Thanks",
-    "french": "Merci",
-    "tamil": "Nandri"
+    "base": "Thanks",
+    "French": "Merci",
+    "Tamil": "Nandri"
   },
   {
-    "english": "Politics",
-    "french": "Politique",
-    "tamil": "Arasiyal"
+    "base": "Politics",
+    "French": "Politique",
+    "Tamil": "Arasiyal"
   },
   {
-    "english": "Politician",
-    "french": "Politicien",
-    "tamil": "Arasiyalvaadhi"
+    "base": "Politician",
+    "French": "Politicien",
+    "Tamil": "Arasiyalvaadhi"
   },
   {
-    "english": "Male-Man",
-    "french": "Homme male",
-    "tamil": "Aan"
+    "base": "Male-Man",
+    "French": "Homme male",
+    "Tamil": "Aan"
   },
   {
-    "english": "Men",
-    "french": "mais",
-    "tamil": "Aangal"
+    "base": "Men",
+    "French": "mais",
+    "Tamil": "Aangal"
   },
   {
-    "english": "Female-woman",
-    "french": "Femme-femme",
-    "tamil": "Pen"
+    "base": "Female-woman",
+    "French": "Femme-femme",
+    "Tamil": "Pen"
   },
   {
-    "english": "Women",
-    "french": "Femmes",
-    "tamil": "Pengal"
+    "base": "Women",
+    "French": "Femmes",
+    "Tamil": "Pengal"
   },
   {
-    "english": "Democracy",
-    "french": "La démocratie",
-    "tamil": "Kudiyarasu"
+    "base": "Democracy",
+    "French": "La démocratie",
+    "Tamil": "Kudiyarasu"
   },
   {
-    "english": "water",
-    "french": "l'eau",
-    "tamil": "thanneer"
+    "base": "water",
+    "French": "l'eau",
+    "Tamil": "thanneer"
   },
   {
-    "english": "Drink(Drink this)",
-    "french": "Buvez (boire ce)",
-    "tamil": "kudi"
+    "base": "Drink(Drink this)",
+    "French": "Buvez (boire ce)",
+    "Tamil": "kudi"
   },
   {
-    "english": "Little (small amout of)",
-    "french": "Little (petite quantité de)",
-    "tamil": "Konjam"
+    "base": "Little (small amout of)",
+    "French": "Little (petite quantité de)",
+    "Tamil": "Konjam"
   },
   {
-    "english": "More (more of this)",
-    "french": "Plus (plus de cela)",
-    "tamil": "Niraya"
+    "base": "More (more of this)",
+    "French": "Plus (plus de cela)",
+    "Tamil": "Niraya"
   },
   {
-    "english": "Want",
-    "french": "Vouloir",
-    "tamil": "Vendum"
+    "base": "Want",
+    "French": "Vouloir",
+    "Tamil": "Vendum"
   },
   {
-    "english": "Dont want",
-    "french": "ne veulent pas que",
-    "tamil": "Vendam"
+    "base": "Dont want",
+    "French": "ne veulent pas que",
+    "Tamil": "Vendam"
   },
   {
-    "english": "Drink little water",
-    "french": "Buvez peu d'eau",
-    "tamil": "Konjam Thanneer kudi"
+    "base": "Drink little water",
+    "French": "Buvez peu d'eau",
+    "Tamil": "Konjam Thanneer kudi"
   },
   {
-    "english": "I want more water",
-    "french": "Je veux plus d'eau",
-    "tamil": "Niraya Thanneer vendum"
+    "base": "I want more water",
+    "French": "Je veux plus d'eau",
+    "Tamil": "Niraya Thanneer vendum"
   },
   {
-    "english": "Road",
-    "french": "Route",
-    "tamil": "Saalai"
+    "base": "Road",
+    "French": "Route",
+    "Tamil": "Saalai"
   },
   {
-    "english": "Home",
-    "french": "Accueil",
-    "tamil": "Veedu"
+    "base": "Home",
+    "French": "Accueil",
+    "Tamil": "Veedu"
   },
   {
-    "english": "Building",
-    "french": "Bâtiment",
-    "tamil": "Katidam"
+    "base": "Building",
+    "French": "Bâtiment",
+    "Tamil": "Katidam"
   },
   {
-    "english": "Church",
-    "french": "Église",
-    "tamil": "Devalayam"
+    "base": "Church",
+    "French": "Église",
+    "Tamil": "Devalayam"
   },
   {
-    "english": "Temple",
-    "french": "Temple",
-    "tamil": "Kovil"
+    "base": "Temple",
+    "French": "Temple",
+    "Tamil": "Kovil"
   },
   {
-    "english": "Protect",
-    "french": "Protéger",
-    "tamil": "Kaaval"
+    "base": "Protect",
+    "French": "Protéger",
+    "Tamil": "Kaaval"
   },
   {
-    "english": "Police station",
-    "french": "Police station",
-    "tamil": "Kaaval Nilayam"
+    "base": "Police station",
+    "French": "Police station",
+    "Tamil": "Kaaval Nilayam"
   },
   {
-    "english": "Security(Person)",
-    "french": "Sécurité (personne)",
-    "tamil": "Kaavalaali"
+    "base": "Security(Person)",
+    "French": "Sécurité (personne)",
+    "Tamil": "Kaavalaali"
   },
   {
-    "english": "Where",
-    "french": "Où",
-    "tamil": "Enge"
+    "base": "Where",
+    "French": "Où",
+    "Tamil": "Enge"
   },
   {
-    "english": "What",
-    "french": "Quoi",
-    "tamil": "Enna"
+    "base": "What",
+    "French": "Quoi",
+    "Tamil": "Enna"
   },
   {
-    "english": "Which",
-    "french": "Lequel",
-    "tamil": "Edhu"
+    "base": "Which",
+    "French": "Lequel",
+    "Tamil": "Edhu"
   },
   {
-    "english": "how",
-    "french": "Comment",
-    "tamil": "Eppadi"
+    "base": "how",
+    "French": "Comment",
+    "Tamil": "Eppadi"
   },
   {
-    "english": "Why",
-    "french": "Pourquoi",
-    "tamil": "Edhuku"
+    "base": "Why",
+    "French": "Pourquoi",
+    "Tamil": "Edhuku"
   },
   {
-    "english": "For what",
-    "french": "Pour quoi",
-    "tamil": "Edhanaala"
+    "base": "For what",
+    "French": "Pour quoi",
+    "Tamil": "Edhanaala"
   },
   {
-    "english": "Why",
-    "french": "Pourquoi",
-    "tamil": "Yen"
+    "base": "Why",
+    "French": "Pourquoi",
+    "Tamil": "Yen"
   },
   {
-    "english": "Where",
-    "french": "Où",
-    "tamil": "Enga"
+    "base": "Where",
+    "French": "Où",
+    "Tamil": "Enga"
   },
   {
-    "english": "Who?",
-    "french": "Qui?",
-    "tamil": "Yaar?"
+    "base": "Who?",
+    "French": "Qui?",
+    "Tamil": "Yaar?"
   },
   {
-    "english": "When?",
-    "french": "Quand?",
-    "tamil": "Eppohdhu?"
+    "base": "When?",
+    "French": "Quand?",
+    "Tamil": "Eppohdhu?"
   },
   {
-    "english": "How much?",
-    "french": "Combien?",
-    "tamil": "Evvalhavu?"
+    "base": "How much?",
+    "French": "Combien?",
+    "Tamil": "Evvalhavu?"
   },
   {
-    "english": "How many?",
-    "french": "Combien?",
-    "tamil": "Eththanai?"
+    "base": "How many?",
+    "French": "Combien?",
+    "Tamil": "Eththanai?"
   },
   {
-    "english": "What price?",
-    "french": "Quel prix?",
-    "tamil": "Enna Vilai?"
+    "base": "What price?",
+    "French": "Quel prix?",
+    "Tamil": "Enna Vilai?"
   },
   {
-    "english": "Which ic the truth?",
-    "french": "Ce qui ic la vérité?",
-    "tamil": "Edhu Unhmai?"
+    "base": "Which ic the truth?",
+    "French": "Ce qui ic la vérité?",
+    "Tamil": "Edhu Unhmai?"
   },
   {
-    "english": "How is the situation?",
-    "french": "Quelle est la situation?",
-    "tamil": "Eppadi Nilaimai?"
+    "base": "How is the situation?",
+    "French": "Quelle est la situation?",
+    "Tamil": "Eppadi Nilaimai?"
   },
   {
-    "english": "Why is it so?",
-    "french": "Pourquoi est-il?",
-    "tamil": "Aen Ippadi?"
+    "base": "Why is it so?",
+    "French": "Pourquoi est-il?",
+    "Tamil": "Aen Ippadi?"
   },
   {
-    "english": "Where is he?",
-    "french": "Où est-il?",
-    "tamil": "Engae Avan?"
+    "base": "Where is he?",
+    "French": "Où est-il?",
+    "Tamil": "Engae Avan?"
   },
   {
-    "english": "Who is he?",
-    "french": "Qui est-il?",
-    "tamil": "Yaar Avan?"
+    "base": "Who is he?",
+    "French": "Qui est-il?",
+    "Tamil": "Yaar Avan?"
   },
   {
-    "english": "When is it required?",
-    "french": "Quand est-il nécessaire?",
-    "tamil": "Eppohdhu vaendum?"
+    "base": "When is it required?",
+    "French": "Quand est-il nécessaire?",
+    "Tamil": "Eppohdhu vaendum?"
   },
   {
-    "english": "What do you want?",
-    "french": "Qu'est-ce que vous voulez?",
-    "tamil": "Enna Vaendum"
+    "base": "What do you want?",
+    "French": "Qu'est-ce que vous voulez?",
+    "Tamil": "Enna Vaendum"
   },
   {
-    "english": "Which do you want?",
-    "french": "Lequel veux-tu?",
-    "tamil": "Edhu Vaendum?"
+    "base": "Which do you want?",
+    "French": "Lequel veux-tu?",
+    "Tamil": "Edhu Vaendum?"
   },
   {
-    "english": "How do you want?",
-    "french": "Comment voulez-vous?",
-    "tamil": "Eppadi Vaendum?"
+    "base": "How do you want?",
+    "French": "Comment voulez-vous?",
+    "Tamil": "Eppadi Vaendum?"
   },
   {
-    "english": "Why do you want?",
-    "french": "Pourquoi veux-tu?",
-    "tamil": "Aen Vaendum?"
+    "base": "Why do you want?",
+    "French": "Pourquoi veux-tu?",
+    "Tamil": "Aen Vaendum?"
   },
   {
-    "english": "Where do you want?",
-    "french": "Où voulez-vous?",
-    "tamil": "Engu Vaendum?"
+    "base": "Where do you want?",
+    "French": "Où voulez-vous?",
+    "Tamil": "Engu Vaendum?"
   },
   {
-    "english": "Whom do you) want?",
-    "french": "Qui vous) voulez?",
-    "tamil": "Yaar Vaendum?"
+    "base": "Whom do you) want?",
+    "French": "Qui vous) voulez?",
+    "Tamil": "Yaar Vaendum?"
   },
   {
-    "english": "How many do you want?",
-    "french": "Combien en voulez-vous?",
-    "tamil": "Eththanai Vaendum?"
+    "base": "How many do you want?",
+    "French": "Combien en voulez-vous?",
+    "Tamil": "Eththanai Vaendum?"
   },
   {
-    "english": "How much do you want?",
-    "french": "Combien voulez-vous?",
-    "tamil": "Evvalhavu Vaendum?"
+    "base": "How much do you want?",
+    "French": "Combien voulez-vous?",
+    "Tamil": "Evvalhavu Vaendum?"
   },
   {
-    "english": "What is it?",
-    "french": "Qu'Est-ce que c'est?",
-    "tamil": "Adhu Enna?"
+    "base": "What is it?",
+    "French": "Qu'Est-ce que c'est?",
+    "Tamil": "Adhu Enna?"
   },
   {
-    "english": "Which is it?",
-    "french": "Lequel est-ce?",
-    "tamil": "Adhu Edhu?"
+    "base": "Which is it?",
+    "French": "Lequel est-ce?",
+    "Tamil": "Adhu Edhu?"
   },
   {
-    "english": "How is it?",
-    "french": "Comment c'est?",
-    "tamil": "Adhu Eppadi?"
+    "base": "How is it?",
+    "French": "Comment c'est?",
+    "Tamil": "Adhu Eppadi?"
   },
   {
-    "english": "Why is it?",
-    "french": "Pourquoi est-il?",
-    "tamil": "Adhu Aen?"
+    "base": "Why is it?",
+    "French": "Pourquoi est-il?",
+    "Tamil": "Adhu Aen?"
   },
   {
-    "english": "Where is it?",
-    "french": "Où est-ce?",
-    "tamil": "Adhu Engae?"
+    "base": "Where is it?",
+    "French": "Où est-ce?",
+    "Tamil": "Adhu Engae?"
   },
   {
-    "english": "When is it?",
-    "french": "Quand est-il?",
-    "tamil": "Adhu Eppohdhu?"
+    "base": "When is it?",
+    "French": "Quand est-il?",
+    "Tamil": "Adhu Eppohdhu?"
   },
   {
-    "english": "How much is it?",
-    "french": "Combien ça coûte?",
-    "tamil": "Adhu Evvalhavu?"
+    "base": "How much is it?",
+    "French": "Combien ça coûte?",
+    "Tamil": "Adhu Evvalhavu?"
   },
   {
-    "english": "I",
-    "french": "je",
-    "tamil": "Naan"
+    "base": "I",
+    "French": "je",
+    "Tamil": "Naan"
   },
   {
-    "english": "He",
-    "french": "Il",
-    "tamil": "Avan"
+    "base": "He",
+    "French": "Il",
+    "Tamil": "Avan"
   },
   {
-    "english": "She",
-    "french": "Elle",
-    "tamil": "Aval"
+    "base": "She",
+    "French": "Elle",
+    "Tamil": "Aval"
   },
   {
-    "english": "You",
-    "french": "Toi",
-    "tamil": "Nee"
+    "base": "You",
+    "French": "Toi",
+    "Tamil": "Nee"
   },
   {
-    "english": "It",
-    "french": "Il",
-    "tamil": "Athu"
+    "base": "It",
+    "French": "Il",
+    "Tamil": "Athu"
   },
   {
-    "english": "A",
-    "french": "UNE",
-    "tamil": "Oru"
+    "base": "A",
+    "French": "UNE",
+    "Tamil": "Oru"
   },
   {
-    "english": "They",
-    "french": "Ils",
-    "tamil": "avargal"
+    "base": "They",
+    "French": "Ils",
+    "Tamil": "avargal"
   },
   {
-    "english": "Them",
-    "french": "Leur",
-    "tamil": "avargal"
+    "base": "Them",
+    "French": "Leur",
+    "Tamil": "avargal"
   },
   {
-    "english": "Come",
-    "french": "Viens",
-    "tamil": "Va"
+    "base": "Come",
+    "French": "Viens",
+    "Tamil": "Va"
   },
   {
-    "english": "Came",
-    "french": "Venu",
-    "tamil": "Vanthuttan"
+    "base": "Came",
+    "French": "Venu",
+    "Tamil": "Vanthuttan"
   },
   {
-    "english": "Will come",
-    "french": "Viendra",
-    "tamil": "Vanthiruvan"
+    "base": "Will come",
+    "French": "Viendra",
+    "Tamil": "Vanthiruvan"
   },
   {
-    "english": "Open",
-    "french": "Ouvert",
-    "tamil": "Thora"
+    "base": "Open",
+    "French": "Ouvert",
+    "Tamil": "Thora"
   },
   {
-    "english": "Opened",
-    "french": "Ouvert",
-    "tamil": "Thoranthiruke"
+    "base": "Opened",
+    "French": "Ouvert",
+    "Tamil": "Thoranthiruke"
   },
   {
-    "english": "Will open",
-    "french": "S'ouvrira",
-    "tamil": "Therakum"
+    "base": "Will open",
+    "French": "S'ouvrira",
+    "Tamil": "Therakum"
   },
   {
-    "english": "Sit",
-    "french": "Asseoir",
-    "tamil": "Ukkarru"
+    "base": "Sit",
+    "French": "Asseoir",
+    "Tamil": "Ukkarru"
   },
   {
-    "english": "Walk",
-    "french": "Marche",
-    "tamil": "Nadae"
+    "base": "Walk",
+    "French": "Marche",
+    "Tamil": "Nadae"
   },
   {
-    "english": "Eat",
-    "french": "Manger",
-    "tamil": "Saapidu"
+    "base": "Eat",
+    "French": "Manger",
+    "Tamil": "Saapidu"
   },
   {
-    "english": "Drink",
-    "french": "Boisson",
-    "tamil": "Kudi"
+    "base": "Drink",
+    "French": "Boisson",
+    "Tamil": "Kudi"
   },
   {
-    "english": "Win",
-    "french": "Gagner",
-    "tamil": "Jayie"
+    "base": "Win",
+    "French": "Gagner",
+    "Tamil": "Jayie"
   },
   {
-    "english": "Go",
-    "french": "Aller",
-    "tamil": "Po"
+    "base": "Go",
+    "French": "Aller",
+    "Tamil": "Po"
   },
   {
-    "english": "Run",
-    "french": "Courir",
-    "tamil": "Odu"
+    "base": "Run",
+    "French": "Courir",
+    "Tamil": "Odu"
   },
   {
-    "english": "I go",
-    "french": "je vais",
-    "tamil": "Naan porean"
+    "base": "I go",
+    "French": "je vais",
+    "Tamil": "Naan porean"
   },
   {
-    "english": "He goes",
-    "french": "Il part",
-    "tamil": "Avan poraan"
+    "base": "He goes",
+    "French": "Il part",
+    "Tamil": "Avan poraan"
   },
   {
-    "english": "He eats an banana",
-    "french": "Il mange une banane",
-    "tamil": "Avan vaalai palam saapiduvaan"
+    "base": "He eats an banana",
+    "French": "Il mange une banane",
+    "Tamil": "Avan vaalai palam saapiduvaan"
   },
   {
-    "english": "He is eating an banana",
-    "french": "Il mange une banane",
-    "tamil": "Avan vaalai palam saapiduraan"
+    "base": "He is eating an banana",
+    "French": "Il mange une banane",
+    "Tamil": "Avan vaalai palam saapiduraan"
   },
   {
-    "english": "He ate an banana",
-    "french": "Il a mangé une banane",
-    "tamil": "Avan vaalai palam saapittaan"
+    "base": "He ate an banana",
+    "French": "Il a mangé une banane",
+    "Tamil": "Avan vaalai palam saapittaan"
   },
   {
-    "english": "I saw the film last week",
-    "french": "J'ai vu le film la semaine dernière",
-    "tamil": "Naan poana vaaram padam paarthean"
+    "base": "I saw the film last week",
+    "French": "J'ai vu le film la semaine dernière",
+    "Tamil": "Naan poana vaaram padam paarthean"
   },
   {
-    "english": "She came by bus yesterday",
-    "french": "Elle est venue en bus hier",
-    "tamil": "Aval nethu pearundhu valiya vandha"
+    "base": "She came by bus yesterday",
+    "French": "Elle est venue en bus hier",
+    "Tamil": "Aval nethu pearundhu valiya vandha"
   },
   {
-    "english": "They went to the temple",
-    "french": "Ils sont allés au temple",
-    "tamil": "Avankellam kovilluku poannaanga"
+    "base": "They went to the temple",
+    "French": "Ils sont allés au temple",
+    "Tamil": "Avankellam kovilluku poannaanga"
   },
   {
-    "english": "He slept the whole night",
-    "french": "Il a dormi toute la nuit",
-    "tamil": "Avan mulu rathiriyum thoonkinaan"
+    "base": "He slept the whole night",
+    "French": "Il a dormi toute la nuit",
+    "Tamil": "Avan mulu rathiriyum thoonkinaan"
   },
   {
-    "english": "He has eaten",
-    "french": "Il a mangé",
-    "tamil": "Avan saapittu mudichutaan"
+    "base": "He has eaten",
+    "French": "Il a mangé",
+    "Tamil": "Avan saapittu mudichutaan"
   },
   {
-    "english": "He had eaten",
-    "french": "Il avait mangé",
-    "tamil": "Avan saapittaan"
+    "base": "He had eaten",
+    "French": "Il avait mangé",
+    "Tamil": "Avan saapittaan"
   },
   {
-    "english": "He wrote well in the examination",
-    "french": "Il a écrit bien dans l'examen",
-    "tamil": "Avan paritchayila nalla eluthi irukkaan"
+    "base": "He wrote well in the examination",
+    "French": "Il a écrit bien dans l'examen",
+    "Tamil": "Avan paritchayila nalla eluthi irukkaan"
   },
   {
-    "english": "He had gone",
-    "french": "Il est parti",
-    "tamil": "Avan poittaan"
+    "base": "He had gone",
+    "French": "Il est parti",
+    "Tamil": "Avan poittaan"
   },
   {
-    "english": "He had come",
-    "french": "Il était venu",
-    "tamil": "Avan vanthutaan"
+    "base": "He had come",
+    "French": "Il était venu",
+    "Tamil": "Avan vanthutaan"
   },
   {
-    "english": "He will eat",
-    "french": "Il va manger",
-    "tamil": "Avan saapiduvaan"
+    "base": "He will eat",
+    "French": "Il va manger",
+    "Tamil": "Avan saapiduvaan"
   },
   {
-    "english": "He will go",
-    "french": "Il ira",
-    "tamil": "Avan povaan"
+    "base": "He will go",
+    "French": "Il ira",
+    "Tamil": "Avan povaan"
   },
   {
-    "english": "He will come",
-    "french": "Il viendra",
-    "tamil": "Avan varuvaan"
+    "base": "He will come",
+    "French": "Il viendra",
+    "Tamil": "Avan varuvaan"
   },
   {
-    "english": "What is your name?",
-    "french": "Quel est votre nom?",
-    "tamil": "Unga peru enna?"
+    "base": "What is your name?",
+    "French": "Quel est votre nom?",
+    "Tamil": "Unga peru enna?"
   },
   {
-    "english": "What",
-    "french": "Quoi",
-    "tamil": "Enna"
+    "base": "What",
+    "French": "Quoi",
+    "Tamil": "Enna"
   },
   {
-    "english": "Your",
-    "french": "Votre",
-    "tamil": "unga"
+    "base": "Your",
+    "French": "Votre",
+    "Tamil": "unga"
   },
   {
-    "english": "Name",
-    "french": "Nom",
-    "tamil": "Paer"
+    "base": "Name",
+    "French": "Nom",
+    "Tamil": "Paer"
   },
   {
-    "english": "What did you do?",
-    "french": "Qu'est-ce que tu as fait?",
-    "tamil": "Nee enna panra, neenga enna panreenga"
+    "base": "What did you do?",
+    "French": "Qu'est-ce que tu as fait?",
+    "Tamil": "Nee enna panra, neenga enna panreenga"
   },
   {
-    "english": "What should I do?",
-    "french": "Que devrais-je faire?",
-    "tamil": "Naan enna seyyanum?"
+    "base": "What should I do?",
+    "French": "Que devrais-je faire?",
+    "Tamil": "Naan enna seyyanum?"
   },
   {
-    "english": "What are the questions?",
-    "french": "Quelles sont les questions?",
-    "tamil": "Enna kelvigal?"
+    "base": "What are the questions?",
+    "French": "Quelles sont les questions?",
+    "Tamil": "Enna kelvigal?"
   },
   {
-    "english": "What were the questions?",
-    "french": "Quelles étaient les questions?",
-    "tamil": "Enna kelvigal irunthithu?"
+    "base": "What were the questions?",
+    "French": "Quelles étaient les questions?",
+    "Tamil": "Enna kelvigal irunthithu?"
   },
   {
-    "english": "What is the last question?",
-    "french": "Quelle est la dernière question?",
-    "tamil": "Kadaisi kelvi enna?"
+    "base": "What is the last question?",
+    "French": "Quelle est la dernière question?",
+    "Tamil": "Kadaisi kelvi enna?"
   },
   {
-    "english": "What is written in the letter?",
-    "french": "Ce qui est écrit dans la lettre?",
-    "tamil": "Khadithathil enna ezhuthi iruku?"
+    "base": "What is written in the letter?",
+    "French": "Ce qui est écrit dans la lettre?",
+    "Tamil": "Khadithathil enna ezhuthi iruku?"
   },
   {
-    "english": "What you had been told?",
-    "french": "Qu'est-ce que vous aviez dit?",
-    "tamil": "Unaku enna solli irunthathu?"
+    "base": "What you had been told?",
+    "French": "Qu'est-ce que vous aviez dit?",
+    "Tamil": "Unaku enna solli irunthathu?"
   },
   {
-    "english": "What will be the answer?",
-    "french": "Quelle sera la réponse?",
-    "tamil": "Badil enna va irukum?"
+    "base": "What will be the answer?",
+    "French": "Quelle sera la réponse?",
+    "Tamil": "Badil enna va irukum?"
   },
   {
-    "english": "Why did you come?",
-    "french": "Pourquoi es-tu venu?",
-    "tamil": "Yean vantha?"
+    "base": "Why did you come?",
+    "French": "Pourquoi es-tu venu?",
+    "Tamil": "Yean vantha?"
   },
   {
-    "english": "Why did you sleep?",
-    "french": "Pourquoi avez-vous dormi?",
-    "tamil": "En thoonguray?"
+    "base": "Why did you sleep?",
+    "French": "Pourquoi avez-vous dormi?",
+    "Tamil": "En thoonguray?"
   },
   {
-    "english": "Why did you tell him to go?",
-    "french": "Pourquoi avez-vous lui dire d'aller?",
-    "tamil": "Yaen avana poga sonna?"
+    "base": "Why did you tell him to go?",
+    "French": "Pourquoi avez-vous lui dire d'aller?",
+    "Tamil": "Yaen avana poga sonna?"
   },
   {
-    "english": "Why did he bring the bag?",
-    "french": "Pourquoi at-il mettre le sac?",
-    "tamil": "Avan yean pai kondu vanthan?"
+    "base": "Why did he bring the bag?",
+    "French": "Pourquoi at-il mettre le sac?",
+    "Tamil": "Avan yean pai kondu vanthan?"
   },
   {
-    "english": "Why did she pay the money?",
-    "french": "Pourquoi at-elle payer l'argent?",
-    "tamil": "Aval yaen kaasu koduthal?"
+    "base": "Why did she pay the money?",
+    "French": "Pourquoi at-elle payer l'argent?",
+    "Tamil": "Aval yaen kaasu koduthal?"
   },
   {
-    "english": "Why did they sit there?",
-    "french": "Pourquoi ont-ils assis là?",
-    "tamil": "Avunga yaen inga utkaanthirukaanga?"
+    "base": "Why did they sit there?",
+    "French": "Pourquoi ont-ils assis là?",
+    "Tamil": "Avunga yaen inga utkaanthirukaanga?"
   },
   {
-    "english": "Why do you drive the car?",
-    "french": "Pourquoi vous conduisez la voiture?",
-    "tamil": "Yaen car ottina?"
+    "base": "Why do you drive the car?",
+    "French": "Pourquoi vous conduisez la voiture?",
+    "Tamil": "Yaen car ottina?"
   },
   {
-    "english": "Why are they late for the meeting?",
-    "french": "Pourquoi sont-ils en retard pour la réunion?",
-    "tamil": "Yean avunga meeting ku thamadama vanthaanga?"
+    "base": "Why are they late for the meeting?",
+    "French": "Pourquoi sont-ils en retard pour la réunion?",
+    "Tamil": "Yean avunga meeting ku thamadama vanthaanga?"
   },
   {
-    "english": "How did you come?",
-    "french": "Comment es tu venu?",
-    "tamil": "Nee eppadi vanthe?"
+    "base": "How did you come?",
+    "French": "Comment es tu venu?",
+    "Tamil": "Nee eppadi vanthe?"
   },
   {
-    "english": "How did you sleep?",
-    "french": "As-tu bien dormi?",
-    "tamil": "Nee epadi thoongina?"
+    "base": "How did you sleep?",
+    "French": "As-tu bien dormi?",
+    "Tamil": "Nee epadi thoongina?"
   },
   {
-    "english": "How did you drive?",
-    "french": "Comment avez-vous conduit?",
-    "tamil": "Nee epadi oattina?"
+    "base": "How did you drive?",
+    "French": "Comment avez-vous conduit?",
+    "Tamil": "Nee epadi oattina?"
   },
   {
-    "english": "How did you write?",
-    "french": "Comment avez-vous écrit?",
-    "tamil": "Nee epadi ezhuthina?"
+    "base": "How did you write?",
+    "French": "Comment avez-vous écrit?",
+    "Tamil": "Nee epadi ezhuthina?"
   },
   {
-    "english": "How many apples are there in my hand?",
-    "french": "Combien de pommes sont là dans ma main?",
-    "tamil": "Ethana apple enn kaieilla irukku?"
+    "base": "How many apples are there in my hand?",
+    "French": "Combien de pommes sont là dans ma main?",
+    "Tamil": "Ethana apple enn kaieilla irukku?"
   },
   {
-    "english": "How many did you take?",
-    "french": "Combien avez-vous pris?",
-    "tamil": "Ethana nee edutha?"
+    "base": "How many did you take?",
+    "French": "Combien avez-vous pris?",
+    "Tamil": "Ethana nee edutha?"
   },
   {
-    "english": "How much did he pay you?",
-    "french": "Combien at-il payé?",
-    "tamil": "Evalavu panam kodutha?"
+    "base": "How much did he pay you?",
+    "French": "Combien at-il payé?",
+    "Tamil": "Evalavu panam kodutha?"
   },
   {
-    "english": "How much distance to go?",
-    "french": "Quelle distance pour aller?",
-    "tamil": "Evalavu thooram poakanum?"
+    "base": "How much distance to go?",
+    "French": "Quelle distance pour aller?",
+    "Tamil": "Evalavu thooram poakanum?"
   },
   {
-    "english": "How was the journey yesterday?",
-    "french": "Comment était hier voyage?",
-    "tamil": "Nethu payanam epadi irrunthathu?"
+    "base": "How was the journey yesterday?",
+    "French": "Comment était hier voyage?",
+    "Tamil": "Nethu payanam epadi irrunthathu?"
   },
   {
-    "english": "Which way did you come?",
-    "french": "De quel côté êtes-vous arrivé?",
-    "tamil": "Entha valiya vanthe?"
+    "base": "Which way did you come?",
+    "French": "De quel côté êtes-vous arrivé?",
+    "Tamil": "Entha valiya vanthe?"
   },
   {
-    "english": "Which is your favorite color?",
-    "french": "Quelle est votre couleur préférée?",
-    "tamil": "Virupamana niram enna?"
+    "base": "Which is your favorite color?",
+    "French": "Quelle est votre couleur préférée?",
+    "Tamil": "Virupamana niram enna?"
   },
   {
-    "english": "In which room did you sleep?",
-    "french": "Dans quelle pièce avez-vous dormi?",
-    "tamil": "Entha arailla thoongina?"
+    "base": "In which room did you sleep?",
+    "French": "Dans quelle pièce avez-vous dormi?",
+    "Tamil": "Entha arailla thoongina?"
   },
   {
-    "english": "Which story did you tell?",
-    "french": "Quelle histoire avez-vous dit?",
-    "tamil": "Entha kathaya sonna?"
+    "base": "Which story did you tell?",
+    "French": "Quelle histoire avez-vous dit?",
+    "Tamil": "Entha kathaya sonna?"
   },
   {
-    "english": "Which is the sweetest fruit?",
-    "french": "Quel est le fruit le plus doux?",
-    "tamil": "Unnaku rumba inipaana palam ethu?"
+    "base": "Which is the sweetest fruit?",
+    "French": "Quel est le fruit le plus doux?",
+    "Tamil": "Unnaku rumba inipaana palam ethu?"
   },
   {
-    "english": "Which is the best newspaper in Hindi?",
-    "french": "Quel est le meilleur journal en hindi?",
-    "tamil": "Entha siethithaal nalla irukkum?"
+    "base": "Which is the best newspaper in Hindi?",
+    "French": "Quel est le meilleur journal en hindi?",
+    "Tamil": "Entha siethithaal nalla irukkum?"
   },
   {
-    "english": "Which Indian state has the largest population?",
-    "french": "Quel État indien a la plus grande population?",
-    "tamil": "Entha indhiya naattu maanilathula romba janathogai irruku?"
+    "base": "Which Indian state has the largest population?",
+    "French": "Quel État indien a la plus grande population?",
+    "Tamil": "Entha indhiya naattu maanilathula romba janathogai irruku?"
   },
   {
-    "english": "Where did you come from?",
-    "french": "D'où viens-tu?",
-    "tamil": "Enga irunthu vandha?"
+    "base": "Where did you come from?",
+    "French": "D'où viens-tu?",
+    "Tamil": "Enga irunthu vandha?"
   },
   {
-    "english": "Where did you sleep?",
-    "french": "Où as-tu dormi?",
-    "tamil": "Enga thoonguna?"
+    "base": "Where did you sleep?",
+    "French": "Où as-tu dormi?",
+    "Tamil": "Enga thoonguna?"
   },
   {
-    "english": "Where is the manager's cabin?",
-    "french": "Où se trouve la cabine du gestionnaire?",
-    "tamil": "Seyalaalar arai enga?"
+    "base": "Where is the manager's cabin?",
+    "French": "Où se trouve la cabine du gestionnaire?",
+    "Tamil": "Seyalaalar arai enga?"
   },
   {
-    "english": "Where should I go?",
-    "french": "Où dois-je aller?",
-    "tamil": "Naan enga poganum?"
+    "base": "Where should I go?",
+    "French": "Où dois-je aller?",
+    "Tamil": "Naan enga poganum?"
   },
   {
-    "english": "Whom should I contact?",
-    "french": "Qui dois-je contacter?",
-    "tamil": "Yeara santhikanum?"
+    "base": "Whom should I contact?",
+    "French": "Qui dois-je contacter?",
+    "Tamil": "Yeara santhikanum?"
   },
   {
-    "english": "Is it a book?",
-    "french": "Est-ce que c'est un livre?",
-    "tamil": "Ithu puthakama?"
+    "base": "Is it a book?",
+    "French": "Est-ce que c'est un livre?",
+    "Tamil": "Ithu puthakama?"
   },
   {
-    "english": "It is a book",
-    "french": "C'est un livre",
-    "tamil": "Ithu puthakam"
+    "base": "It is a book",
+    "French": "C'est un livre",
+    "Tamil": "Ithu puthakam"
   },
   {
-    "english": "Is it the answer?",
-    "french": "Est-ce la réponse?",
-    "tamil": "Ithuthaan badhila?"
+    "base": "Is it the answer?",
+    "French": "Est-ce la réponse?",
+    "Tamil": "Ithuthaan badhila?"
   },
   {
-    "english": "It is the answer",
-    "french": "Il est la réponse",
-    "tamil": "Ithuthaan badhil?"
+    "base": "It is the answer",
+    "French": "Il est la réponse",
+    "Tamil": "Ithuthaan badhil?"
   },
   {
-    "english": "Will you come with me?",
-    "french": "Voulez-vous venir avec moi?",
-    "tamil": "Enkoda varuviya?"
+    "base": "Will you come with me?",
+    "French": "Voulez-vous venir avec moi?",
+    "Tamil": "Enkoda varuviya?"
   },
   {
-    "english": "I shall come with you.",
-    "french": "Je viendrai avec vous.",
-    "tamil": "Naan wunkoda varuven."
+    "base": "I shall come with you.",
+    "French": "Je viendrai avec vous.",
+    "Tamil": "Naan wunkoda varuven."
   },
   {
-    "english": "Will you give me your pen?",
-    "french": "Voulez-vous me donner votre stylo?",
-    "tamil": "Peanava kodupeengala?"
+    "base": "Will you give me your pen?",
+    "French": "Voulez-vous me donner votre stylo?",
+    "Tamil": "Peanava kodupeengala?"
   },
   {
-    "english": "Yes, of course.",
-    "french": "Oui, bien sûr.",
-    "tamil": "Aama, pinna."
+    "base": "Yes, of course.",
+    "French": "Oui, bien sûr.",
+    "Tamil": "Aama, pinna."
   },
   {
-    "english": "I love you",
-    "french": "je t'aime",
-    "tamil": "Naan Unnai Kadalikiren."
+    "base": "I love you",
+    "French": "je t'aime",
+    "Tamil": "Naan Unnai Kadalikiren."
   },
   {
-    "english": "Can you give me your pen?",
-    "french": "Pouvez-vous me donner votre stylo?",
-    "tamil": "Peanava kudukka mudiyuma?"
+    "base": "Can you give me your pen?",
+    "French": "Pouvez-vous me donner votre stylo?",
+    "Tamil": "Peanava kudukka mudiyuma?"
   },
   {
-    "english": "Can you lift the box?",
-    "french": "Pouvez-vous soulever la boîte?",
-    "tamil": "Pettiya thookka mudiyumma?"
+    "base": "Can you lift the box?",
+    "French": "Pouvez-vous soulever la boîte?",
+    "Tamil": "Pettiya thookka mudiyumma?"
   },
   {
-    "english": "Can you write the exam?",
-    "french": "Pouvez-vous écrire l'examen?",
-    "tamil": "Paritchai elutha mudiyumma?"
+    "base": "Can you write the exam?",
+    "French": "Pouvez-vous écrire l'examen?",
+    "Tamil": "Paritchai elutha mudiyumma?"
   },
   {
-    "english": "Did you have your lunch?",
-    "french": "As-tu déjeuné?",
-    "tamil": "Madhiyaanam saappadu saapittiya?"
+    "base": "Did you have your lunch?",
+    "French": "As-tu déjeuné?",
+    "Tamil": "Madhiyaanam saappadu saapittiya?"
   },
   {
-    "english": "good morning",
-    "french": "Bonjour",
-    "tamil": "kalaivanakkam"
+    "base": "good morning",
+    "French": "Bonjour",
+    "Tamil": "kalaivanakkam"
   },
   {
-    "english": "good evening",
-    "french": "Bonsoir",
-    "tamil": "maalai vanakkam"
+    "base": "good evening",
+    "French": "Bonsoir",
+    "Tamil": "maalai vanakkam"
   },
   {
-    "english": "welcome",
-    "french": "Bienvenue",
-    "tamil": "vaazhga"
+    "base": "welcome",
+    "French": "Bienvenue",
+    "Tamil": "vaazhga"
   },
   {
-    "english": "sorry",
-    "french": "Pardon",
-    "tamil": "manichirunga"
+    "base": "sorry",
+    "French": "Pardon",
+    "Tamil": "manichirunga"
   },
   {
-    "english": "take it",
-    "french": "prends-le",
-    "tamil": "eduthu kollungal"
+    "base": "take it",
+    "French": "prends-le",
+    "Tamil": "eduthu kollungal"
   },
   {
-    "english": "thanks",
-    "french": "Merci",
-    "tamil": "romba nandri"
+    "base": "thanks",
+    "French": "Merci",
+    "Tamil": "romba nandri"
   },
   {
-    "english": "how are you?",
-    "french": "Comment allez-vous?",
-    "tamil": "eppadi irukkinga or nalamaa?"
+    "base": "how are you?",
+    "French": "Comment allez-vous?",
+    "Tamil": "eppadi irukkinga or nalamaa?"
   },
   {
-    "english": "and you?",
-    "french": "et vous?",
-    "tamil": "nienga?"
+    "base": "and you?",
+    "French": "et vous?",
+    "Tamil": "nienga?"
   },
   {
-    "english": "good/so",
-    "french": "bien alors",
-    "tamil": "sari"
+    "base": "good/so",
+    "French": "bien alors",
+    "Tamil": "sari"
   },
   {
-    "english": "thank you very much",
-    "french": "Merci beaucoup",
-    "tamil": "romba nandri"
+    "base": "thank you very much",
+    "French": "Merci beaucoup",
+    "Tamil": "romba nandri"
   },
   {
-    "english": "you are welcome",
-    "french": "vous êtes les bienvenus",
-    "tamil": "paravaa illa"
+    "base": "you are welcome",
+    "French": "vous êtes les bienvenus",
+    "Tamil": "paravaa illa"
   },
   {
-    "english": "hey,friend",
-    "french": "Hey, ami",
-    "tamil": "alo,nanbaa"
+    "base": "hey,friend",
+    "French": "Hey, ami",
+    "Tamil": "alo,nanbaa"
   },
   {
-    "english": "i missed you so much",
-    "french": "tu m'as tellement manqué",
-    "tamil": "unnai rumba izhanthu vittean"
+    "base": "i missed you so much",
+    "French": "tu m'as tellement manqué",
+    "Tamil": "unnai rumba izhanthu vittean"
   },
   {
-    "english": "waht's new",
-    "french": "quoi de neuf",
-    "tamil": "eanna seithi?"
+    "base": "waht's new",
+    "French": "quoi de neuf",
+    "Tamil": "eanna seithi?"
   },
   {
-    "english": "nothing much",
-    "french": "pas grand chose",
-    "tamil": "onnum illai"
+    "base": "nothing much",
+    "French": "pas grand chose",
+    "Tamil": "onnum illai"
   },
   {
-    "english": "good night",
-    "french": "bonne nuit",
-    "tamil": "iravu vanakkam"
+    "base": "good night",
+    "French": "bonne nuit",
+    "Tamil": "iravu vanakkam"
   },
   {
-    "english": "see you later",
-    "french": "à plus tard",
-    "tamil": "aparam paarkalam"
+    "base": "see you later",
+    "French": "à plus tard",
+    "Tamil": "aparam paarkalam"
   },
   {
-    "english": "good bye",
-    "french": "Au revoir",
-    "tamil": "poittu varen"
+    "base": "good bye",
+    "French": "Au revoir",
+    "Tamil": "poittu varen"
   },
   {
-    "english": "am lost",
-    "french": "suis perdu",
-    "tamil": "enakku vazhi theriyala"
+    "base": "am lost",
+    "French": "suis perdu",
+    "Tamil": "enakku vazhi theriyala"
   },
   {
-    "english": "can i help you",
-    "french": "puis-je vous aider",
-    "tamil": "unakku udavattumaa?"
+    "base": "can i help you",
+    "French": "puis-je vous aider",
+    "Tamil": "unakku udavattumaa?"
   },
   {
-    "english": "can you help me?",
-    "french": "Pouvez-vous m'aider?",
-    "tamil": "enakku udhavi seivienkala?"
+    "base": "can you help me?",
+    "French": "Pouvez-vous m'aider?",
+    "Tamil": "enakku udhavi seivienkala?"
   },
   {
-    "english": "where is the bathroom/pharmacy",
-    "french": "où est la salle de bain / pharmacie",
-    "tamil": "kazhivarai/marundukadai engea?"
+    "base": "where is the bathroom/pharmacy",
+    "French": "où est la salle de bain / pharmacie",
+    "Tamil": "kazhivarai/marundukadai engea?"
   },
   {
-    "english": "go straight then turn left/right",
-    "french": "aller tout droit puis gauche / droite",
-    "tamil": "neraa ponga idathu valathu thirumunga"
+    "base": "go straight then turn left/right",
+    "French": "aller tout droit puis gauche / droite",
+    "Tamil": "neraa ponga idathu valathu thirumunga"
   },
   {
-    "english": "one moment please",
-    "french": "un instant s'il vous plaît",
-    "tamil": "oru nimidam"
+    "base": "one moment please",
+    "French": "un instant s'il vous plaît",
+    "Tamil": "oru nimidam"
   },
   {
-    "english": "hold on please",
-    "french": "tenir s'il vous plaît",
-    "tamil": "irunga"
+    "base": "hold on please",
+    "French": "tenir s'il vous plaît",
+    "Tamil": "irunga"
   },
   {
-    "english": "how much is this?",
-    "french": "combien ça coûte?",
-    "tamil": "idhu evvalavu"
+    "base": "how much is this?",
+    "French": "combien ça coûte?",
+    "Tamil": "idhu evvalavu"
   },
   {
-    "english": "excuse me",
-    "french": "Excusez-moi",
-    "tamil": "manikkanum or dhayavu seithu"
+    "base": "excuse me",
+    "French": "Excusez-moi",
+    "Tamil": "manikkanum or dhayavu seithu"
   },
   {
-    "english": "come with me",
-    "french": "viens avec moi",
-    "tamil": "ennodu vaa"
+    "base": "come with me",
+    "French": "viens avec moi",
+    "Tamil": "ennodu vaa"
   },
   {
-    "english": "You",
-    "french": "Toi",
-    "tamil": "Nee / Neengal / Unnay / Ungalai"
+    "base": "You",
+    "French": "Toi",
+    "Tamil": "Nee / Neengal / Unnay / Ungalai"
   },
   {
-    "english": "Your",
-    "french": "Votre",
-    "tamil": "Unnudaiya / Ungaludaiya"
+    "base": "Your",
+    "French": "Votre",
+    "Tamil": "Unnudaiya / Ungaludaiya"
   },
   {
-    "english": "Yours",
-    "french": "Le tiens",
-    "tamil": "Unnudaiyathu / Ungaludaiyathu"
+    "base": "Yours",
+    "French": "Le tiens",
+    "Tamil": "Unnudaiyathu / Ungaludaiyathu"
   },
   {
-    "english": "He",
-    "french": "Il",
-    "tamil": "Avan"
+    "base": "He",
+    "French": "Il",
+    "Tamil": "Avan"
   },
   {
-    "english": "She",
-    "french": "Elle",
-    "tamil": "Aval"
+    "base": "She",
+    "French": "Elle",
+    "Tamil": "Aval"
   },
   {
-    "english": "Him",
-    "french": "Lui",
-    "tamil": "Avanay"
+    "base": "Him",
+    "French": "Lui",
+    "Tamil": "Avanay"
   },
   {
-    "english": "Her",
-    "french": "Sa",
-    "tamil": "Avalai / Avaludaiyathu"
+    "base": "Her",
+    "French": "Sa",
+    "Tamil": "Avalai / Avaludaiyathu"
   },
   {
-    "english": "His",
-    "french": "Le sien",
-    "tamil": "Avanudaiya / Avanudaiyathu"
+    "base": "His",
+    "French": "Le sien",
+    "Tamil": "Avanudaiya / Avanudaiyathu"
   },
   {
-    "english": "They",
-    "french": "Ils",
-    "tamil": "Avargal / Avai"
+    "base": "They",
+    "French": "Ils",
+    "Tamil": "Avargal / Avai"
   },
   {
-    "english": "Their",
-    "french": "Leur",
-    "tamil": "Avargaludaiya / Avargaludaiyathu"
+    "base": "Their",
+    "French": "Leur",
+    "Tamil": "Avargaludaiya / Avargaludaiyathu"
   },
   {
-    "english": "Theirs",
-    "french": "Les leurs",
-    "tamil": "Avargaludaiyathu / Avaigaludaiyathu"
+    "base": "Theirs",
+    "French": "Les leurs",
+    "Tamil": "Avargaludaiyathu / Avaigaludaiyathu"
   },
   {
-    "english": "Them",
-    "french": "Leur",
-    "tamil": "Avargalai / Avaigalai"
+    "base": "Them",
+    "French": "Leur",
+    "Tamil": "Avargalai / Avaigalai"
   },
   {
-    "english": "It",
-    "french": "Il",
-    "tamil": "Adhu / Adhai"
+    "base": "It",
+    "French": "Il",
+    "Tamil": "Adhu / Adhai"
   },
   {
-    "english": "Its",
-    "french": "Ses",
-    "tamil": "Adhanudaiya / Adhanudaiyathu"
+    "base": "Its",
+    "French": "Ses",
+    "Tamil": "Adhanudaiya / Adhanudaiyathu"
   },
   {
-    "english": "Self",
-    "french": "Soi",
-    "tamil": "Thaan"
+    "base": "Self",
+    "French": "Soi",
+    "Tamil": "Thaan"
   },
   {
-    "english": "Myself",
-    "french": "Moi même",
-    "tamil": "Naanae"
+    "base": "Myself",
+    "French": "Moi même",
+    "Tamil": "Naanae"
   },
   {
-    "english": "Yourself",
-    "french": "Toi même",
-    "tamil": "Neeyae"
+    "base": "Yourself",
+    "French": "Toi même",
+    "Tamil": "Neeyae"
   },
   {
-    "english": "Himself",
-    "french": "Lui-même",
-    "tamil": "Avanae"
+    "base": "Himself",
+    "French": "Lui-même",
+    "Tamil": "Avanae"
   },
   {
-    "english": "Itself",
-    "french": "lui-même",
-    "tamil": "Adhuvae"
+    "base": "Itself",
+    "French": "lui-même",
+    "Tamil": "Adhuvae"
   },
   {
-    "english": "Themselves",
-    "french": "Se",
-    "tamil": "Avargalae"
+    "base": "Themselves",
+    "French": "Se",
+    "Tamil": "Avargalae"
   },
   {
-    "english": "Ourselves",
-    "french": "Nous-mêmes",
-    "tamil": "Naamae / Naangalae"
+    "base": "Ourselves",
+    "French": "Nous-mêmes",
+    "Tamil": "Naamae / Naangalae"
   },
   {
-    "english": "This",
-    "french": "Cette",
-    "tamil": "Idhu / Ivan / Ival"
+    "base": "This",
+    "French": "Cette",
+    "Tamil": "Idhu / Ivan / Ival"
   },
   {
-    "english": "That",
-    "french": "Cette",
-    "tamil": "Adhu / Avan / Aval"
+    "base": "That",
+    "French": "Cette",
+    "Tamil": "Adhu / Avan / Aval"
   },
   {
-    "english": "These",
-    "french": "Celles-ci",
-    "tamil": "Ivaigal / Ivargal"
+    "base": "These",
+    "French": "Celles-ci",
+    "Tamil": "Ivaigal / Ivargal"
   },
   {
-    "english": "Those",
-    "french": "Ceux",
-    "tamil": "Avargal / Avaigal"
+    "base": "Those",
+    "French": "Ceux",
+    "Tamil": "Avargal / Avaigal"
   },
   {
-    "english": "Some",
-    "french": "Certains",
-    "tamil": "Sila / Silar"
+    "base": "Some",
+    "French": "Certains",
+    "Tamil": "Sila / Silar"
   },
   {
-    "english": "Somebody",
-    "french": "quelqu'un",
-    "tamil": "Yaaroa"
+    "base": "Somebody",
+    "French": "quelqu'un",
+    "Tamil": "Yaaroa"
   },
   {
-    "english": "Anybody",
-    "french": "N'importe qui",
-    "tamil": "Yaarkilum / Yaaravadhu"
+    "base": "Anybody",
+    "French": "N'importe qui",
+    "Tamil": "Yaarkilum / Yaaravadhu"
   },
   {
-    "english": "Everybody",
-    "french": "Tout le monde",
-    "tamil": "Ellorrum"
+    "base": "Everybody",
+    "French": "Tout le monde",
+    "Tamil": "Ellorrum"
   },
   {
-    "english": "Nobody",
-    "french": "Personne",
-    "tamil": "Yaarumillai"
+    "base": "Nobody",
+    "French": "Personne",
+    "Tamil": "Yaarumillai"
   },
   {
-    "english": "Something",
-    "french": "Quelque chose",
-    "tamil": "Edhavathu Ondru"
+    "base": "Something",
+    "French": "Quelque chose",
+    "Tamil": "Edhavathu Ondru"
   },
   {
-    "english": "Anything",
-    "french": "N'importe quoi",
-    "tamil": "Edhavathu"
+    "base": "Anything",
+    "French": "N'importe quoi",
+    "Tamil": "Edhavathu"
   },
   {
-    "english": "Nothing",
-    "french": "Rien",
-    "tamil": "Ondrum illai"
+    "base": "Nothing",
+    "French": "Rien",
+    "Tamil": "Ondrum illai"
   },
   {
-    "english": "Same",
-    "french": "Même",
-    "tamil": "Adhey"
+    "base": "Same",
+    "French": "Même",
+    "Tamil": "Adhey"
   },
   {
-    "english": "Such",
-    "french": "Tel",
-    "tamil": "Adhu pondra"
+    "base": "Such",
+    "French": "Tel",
+    "Tamil": "Adhu pondra"
   },
   {
-    "english": "Few",
-    "french": "Peu",
-    "tamil": "Konjam / Sila"
+    "base": "Few",
+    "French": "Peu",
+    "Tamil": "Konjam / Sila"
   },
   {
-    "english": "Many",
-    "french": "Beaucoup",
-    "tamil": "Pala / Palar / Nirayya"
+    "base": "Many",
+    "French": "Beaucoup",
+    "Tamil": "Pala / Palar / Nirayya"
   },
   {
-    "english": "Other",
-    "french": "Autre",
-    "tamil": "Martrondru / Vera"
+    "base": "Other",
+    "French": "Autre",
+    "Tamil": "Martrondru / Vera"
   },
   {
-    "english": "Others",
-    "french": "Autres",
-    "tamil": "Pira / Pirar"
+    "base": "Others",
+    "French": "Autres",
+    "Tamil": "Pira / Pirar"
   },
   {
-    "english": "Affectionate",
-    "french": "Affectueux",
-    "tamil": "Paasammikka / Paasamulla / Priyamulla"
+    "base": "Affectionate",
+    "French": "Affectueux",
+    "Tamil": "Paasammikka / Paasamulla / Priyamulla"
   },
   {
-    "english": "Clever",
-    "french": "Intelligent",
-    "tamil": "Thiramaiyana / Buddhisaali"
+    "base": "Clever",
+    "French": "Intelligent",
+    "Tamil": "Thiramaiyana / Buddhisaali"
   },
   {
-    "english": "Generous",
-    "french": "généreuse",
-    "tamil": "Dharaala manapaanmai konda"
+    "base": "Generous",
+    "French": "généreuse",
+    "Tamil": "Dharaala manapaanmai konda"
   },
   {
-    "english": "Innocent",
-    "french": "Innocent",
-    "tamil": "Veguliaana"
+    "base": "Innocent",
+    "French": "Innocent",
+    "Tamil": "Veguliaana"
   },
   {
-    "english": "Humorous",
-    "french": "Humoristique",
-    "tamil": "Nagaisuvai unarvulla"
+    "base": "Humorous",
+    "French": "Humoristique",
+    "Tamil": "Nagaisuvai unarvulla"
   },
   {
-    "english": "Short tempered",
-    "french": "court trempé",
-    "tamil": "Mun Kobam Konda"
+    "base": "Short tempered",
+    "French": "court trempé",
+    "Tamil": "Mun Kobam Konda"
   },
   {
-    "english": "Sensible",
-    "french": "Sensible",
-    "tamil": "Arivulla"
+    "base": "Sensible",
+    "French": "Sensible",
+    "Tamil": "Arivulla"
   },
   {
-    "english": "Well educated",
-    "french": "Bien éduqué",
-    "tamil": "Nangu padiththa"
+    "base": "Well educated",
+    "French": "Bien éduqué",
+    "Tamil": "Nangu padiththa"
   },
   {
-    "english": "Arrogant",
-    "french": "Arrogant",
-    "tamil": "Garvamudaiya / Aanavamulla"
+    "base": "Arrogant",
+    "French": "Arrogant",
+    "Tamil": "Garvamudaiya / Aanavamulla"
   },
   {
-    "english": "Brave",
-    "french": "Courageux",
-    "tamil": "Dhairiyamana"
+    "base": "Brave",
+    "French": "Courageux",
+    "Tamil": "Dhairiyamana"
   },
   {
-    "english": "Dangerous",
-    "french": "Dangereux",
-    "tamil": "Aabaththaana"
+    "base": "Dangerous",
+    "French": "Dangereux",
+    "Tamil": "Aabaththaana"
   },
   {
-    "english": "Helpful",
-    "french": "Utile",
-    "tamil": "Udavikaramaana / Payanudaiya"
+    "base": "Helpful",
+    "French": "Utile",
+    "Tamil": "Udavikaramaana / Payanudaiya"
   },
   {
-    "english": "Indifferent",
-    "french": "Indifférent",
-    "tamil": "Alatchiyamaana"
+    "base": "Indifferent",
+    "French": "Indifférent",
+    "Tamil": "Alatchiyamaana"
   },
   {
-    "english": "Jealous",
-    "french": "Jaloux",
-    "tamil": "Poaraamaiyaana"
+    "base": "Jealous",
+    "French": "Jaloux",
+    "Tamil": "Poaraamaiyaana"
   },
   {
-    "english": "Mischivous",
-    "french": "Mischivous",
-    "tamil": "Kurumbuthanamaana"
+    "base": "Mischivous",
+    "French": "Mischivous",
+    "Tamil": "Kurumbuthanamaana"
   },
   {
-    "english": "Proud",
-    "french": "Fier",
-    "tamil": "Garvamaana/Perumidhamaana"
+    "base": "Proud",
+    "French": "Fier",
+    "Tamil": "Garvamaana/Perumidhamaana"
   },
   {
-    "english": "Sensitive",
-    "french": "Sensible",
-    "tamil": "Unarchivasappadum"
+    "base": "Sensitive",
+    "French": "Sensible",
+    "Tamil": "Unarchivasappadum"
   },
   {
-    "english": "Sincere",
-    "french": "Sincère",
-    "tamil": "Unmaiyaana"
+    "base": "Sincere",
+    "French": "Sincère",
+    "Tamil": "Unmaiyaana"
   },
   {
-    "english": "Strict",
-    "french": "Strict",
-    "tamil": "Kandipaana"
+    "base": "Strict",
+    "French": "Strict",
+    "Tamil": "Kandipaana"
   },
   {
-    "english": "Timid",
-    "french": "Timide",
-    "tamil": "Dhairiyamilladha"
+    "base": "Timid",
+    "French": "Timide",
+    "Tamil": "Dhairiyamilladha"
   },
   {
-    "english": "Violent",
-    "french": "Violent",
-    "tamil": "Kodumaiyana, Muradu"
+    "base": "Violent",
+    "French": "Violent",
+    "Tamil": "Kodumaiyana, Muradu"
   },
   {
-    "english": "Weak",
-    "french": "Faible",
-    "tamil": "Melindha / Valimai Kunriya"
+    "base": "Weak",
+    "French": "Faible",
+    "Tamil": "Melindha / Valimai Kunriya"
   },
   {
-    "english": "Adament",
-    "french": "adament",
-    "tamil": "Pidivathamana"
+    "base": "Adament",
+    "French": "adament",
+    "Tamil": "Pidivathamana"
   },
   {
-    "english": "Efficient",
-    "french": "Efficace",
-    "tamil": "Samarthiyamana, Thiramaimikka"
+    "base": "Efficient",
+    "French": "Efficace",
+    "Tamil": "Samarthiyamana, Thiramaimikka"
   },
   {
-    "english": "Famous",
-    "french": "Célèbre",
-    "tamil": "Pugazh vaaindha"
+    "base": "Famous",
+    "French": "Célèbre",
+    "Tamil": "Pugazh vaaindha"
   },
   {
-    "english": "Gentle",
-    "french": "Doux",
-    "tamil": "Mariyaadhaiyaana / Menmaiyaana"
+    "base": "Gentle",
+    "French": "Doux",
+    "Tamil": "Mariyaadhaiyaana / Menmaiyaana"
   },
   {
-    "english": "Honest",
-    "french": "Honnête",
-    "tamil": "Nermaiyaana"
+    "base": "Honest",
+    "French": "Honnête",
+    "Tamil": "Nermaiyaana"
   },
   {
-    "english": "Kind",
-    "french": "Gentil",
-    "tamil": "Anbaana"
+    "base": "Kind",
+    "French": "Gentil",
+    "Tamil": "Anbaana"
   },
   {
-    "english": "Notorious",
-    "french": "Célèbre",
-    "tamil": "Theeyavaigallil prabhalamana / Kettap Peyareduththa"
+    "base": "Notorious",
+    "French": "Célèbre",
+    "Tamil": "Theeyavaigallil prabhalamana / Kettap Peyareduththa"
   },
   {
-    "english": "Polite",
-    "french": "Poli",
-    "tamil": "Panivaana"
+    "base": "Polite",
+    "French": "Poli",
+    "Tamil": "Panivaana"
   },
   {
-    "english": "Quiet",
-    "french": "Silencieux",
-    "tamil": "Amaithiyaana"
+    "base": "Quiet",
+    "French": "Silencieux",
+    "Tamil": "Amaithiyaana"
   },
   {
-    "english": "Selfish",
-    "french": "Égoïste",
-    "tamil": "Suyanalamaana"
+    "base": "Selfish",
+    "French": "Égoïste",
+    "Tamil": "Suyanalamaana"
   },
   {
-    "english": "Straight forward",
-    "french": "Simple",
-    "tamil": "Olivumaraivartra, Nermaiyulla"
+    "base": "Straight forward",
+    "French": "Simple",
+    "Tamil": "Olivumaraivartra, Nermaiyulla"
   },
   {
-    "english": "Talented",
-    "french": "Talentueux",
-    "tamil": "Thiramaiyana"
+    "base": "Talented",
+    "French": "Talentueux",
+    "Tamil": "Thiramaiyana"
   },
   {
-    "english": "Useless",
-    "french": "Inutile",
-    "tamil": "Ubayogamatra , Udhavaakarai"
+    "base": "Useless",
+    "French": "Inutile",
+    "Tamil": "Ubayogamatra , Udhavaakarai"
   },
   {
-    "english": "Well off",
-    "french": "Je gagne bien ma",
-    "tamil": "Vasathiyulla"
+    "base": "Well off",
+    "French": "Je gagne bien ma",
+    "Tamil": "Vasathiyulla"
   },
   {
-    "english": "Slippery",
-    "french": "Glissant",
-    "tamil": "Vazhukkalaana"
+    "base": "Slippery",
+    "French": "Glissant",
+    "Tamil": "Vazhukkalaana"
   },
   {
-    "english": "Uneven",
-    "french": "Inégal",
-    "tamil": "Samamillaamal"
+    "base": "Uneven",
+    "French": "Inégal",
+    "Tamil": "Samamillaamal"
   },
   {
-    "english": "Narrow",
-    "french": "Étroit",
-    "tamil": "Kurugalaana"
+    "base": "Narrow",
+    "French": "Étroit",
+    "Tamil": "Kurugalaana"
   },
   {
-    "english": "Broad",
-    "french": "Vaste",
-    "tamil": "Agalamaana"
+    "base": "Broad",
+    "French": "Vaste",
+    "Tamil": "Agalamaana"
   },
   {
-    "english": "Congested",
-    "french": "Congestionné",
-    "tamil": "Nerisalaana"
+    "base": "Congested",
+    "French": "Congestionné",
+    "Tamil": "Nerisalaana"
   },
   {
-    "english": "Clean",
-    "french": "Nettoyer",
-    "tamil": "Suththamaana"
+    "base": "Clean",
+    "French": "Nettoyer",
+    "Tamil": "Suththamaana"
   },
   {
-    "english": "Crowded",
-    "french": "Bondé",
-    "tamil": "Kuutamaana / Kuutam Niraindha"
+    "base": "Crowded",
+    "French": "Bondé",
+    "Tamil": "Kuutamaana / Kuutam Niraindha"
   },
   {
-    "english": "Water logged",
-    "french": "gorgés d'eau",
-    "tamil": "Thanneer Thengiya"
+    "base": "Water logged",
+    "French": "gorgés d'eau",
+    "Tamil": "Thanneer Thengiya"
   },
   {
-    "english": "Slushy",
-    "french": "Détrempé",
-    "tamil": "Saerum Sagathiyumaaga"
+    "base": "Slushy",
+    "French": "Détrempé",
+    "Tamil": "Saerum Sagathiyumaaga"
   },
   {
-    "english": "Smooth",
-    "french": "Lisse",
-    "tamil": "Menmaiyaana"
+    "base": "Smooth",
+    "French": "Lisse",
+    "Tamil": "Menmaiyaana"
   },
   {
-    "english": "Convenient",
-    "french": "Pratique",
-    "tamil": "Vasathiyaana"
+    "base": "Convenient",
+    "French": "Pratique",
+    "Tamil": "Vasathiyaana"
   },
   {
-    "english": "Bright",
-    "french": "Brillant",
-    "tamil": "Vellichchamaana"
+    "base": "Bright",
+    "French": "Brillant",
+    "Tamil": "Vellichchamaana"
   },
   {
-    "english": "Airy",
-    "french": "Airy",
-    "tamil": "Kartrotamaana"
+    "base": "Airy",
+    "French": "Airy",
+    "Tamil": "Kartrotamaana"
   },
   {
-    "english": "Big and Spacious",
-    "french": "Grande et spacieuse",
-    "tamil": "Periya Visaalamaana"
+    "base": "Big and Spacious",
+    "French": "Grande et spacieuse",
+    "Tamil": "Periya Visaalamaana"
   },
   {
-    "english": "Stuffy",
-    "french": "Bouché",
-    "tamil": "Adaisalaana"
+    "base": "Stuffy",
+    "French": "Bouché",
+    "Tamil": "Adaisalaana"
   },
   {
-    "english": "Untidy",
-    "french": "Désordonné",
-    "tamil": "Ozhungartra"
+    "base": "Untidy",
+    "French": "Désordonné",
+    "Tamil": "Ozhungartra"
   },
   {
-    "english": "Remote",
-    "french": "Éloigné",
-    "tamil": "Tholaivil Ulla"
+    "base": "Remote",
+    "French": "Éloigné",
+    "Tamil": "Tholaivil Ulla"
   },
   {
-    "english": "Vacant",
-    "french": "Vacant",
-    "tamil": "Gaaliyaga"
+    "base": "Vacant",
+    "French": "Vacant",
+    "Tamil": "Gaaliyaga"
   },
   {
-    "english": "Dilapidated",
-    "french": "Délabré",
-    "tamil": "Pazhadaintha"
+    "base": "Dilapidated",
+    "French": "Délabré",
+    "Tamil": "Pazhadaintha"
   },
   {
-    "english": "Well lentilated",
-    "french": "Eh bien lentilated",
-    "tamil": "Kartrotamaana"
+    "base": "Well lentilated",
+    "French": "Eh bien lentilated",
+    "Tamil": "Kartrotamaana"
   },
   {
-    "english": "Ago",
-    "french": "Depuis",
-    "tamil": "Munbu / Munnadi"
+    "base": "Ago",
+    "French": "Depuis",
+    "Tamil": "Munbu / Munnadi"
   },
   {
-    "english": "Afterwards",
-    "french": "Ensuite",
-    "tamil": "Piragu"
+    "base": "Afterwards",
+    "French": "Ensuite",
+    "Tamil": "Piragu"
   },
   {
-    "english": "Then",
-    "french": "ensuite",
-    "tamil": "Appozhudhu / Piragu"
+    "base": "Then",
+    "French": "ensuite",
+    "Tamil": "Appozhudhu / Piragu"
   },
   {
-    "english": "Lately",
-    "french": "Dernièrement",
-    "tamil": "Kalamthazhndhu / Anmaiyil"
+    "base": "Lately",
+    "French": "Dernièrement",
+    "Tamil": "Kalamthazhndhu / Anmaiyil"
   },
   {
-    "english": "Immediately",
-    "french": "Immédiatement",
-    "tamil": "Udanae"
+    "base": "Immediately",
+    "French": "Immédiatement",
+    "Tamil": "Udanae"
   },
   {
-    "english": "Yet",
-    "french": "Encore",
-    "tamil": "Idhuvarai / Irundhum"
+    "base": "Yet",
+    "French": "Encore",
+    "Tamil": "Idhuvarai / Irundhum"
   },
   {
-    "english": "Daily",
-    "french": "du quotidien",
-    "tamil": "Thinasari / Dhinamthoarum"
+    "base": "Daily",
+    "French": "du quotidien",
+    "Tamil": "Thinasari / Dhinamthoarum"
   },
   {
-    "english": "Weekly",
-    "french": "Hebdomadaire",
-    "tamil": "Varanthorum"
+    "base": "Weekly",
+    "French": "Hebdomadaire",
+    "Tamil": "Varanthorum"
   },
   {
-    "english": "Monthly",
-    "french": "Mensuel",
-    "tamil": "Madhamthorum"
+    "base": "Monthly",
+    "French": "Mensuel",
+    "Tamil": "Madhamthorum"
   },
   {
-    "english": "Yearly",
-    "french": "Annuel",
-    "tamil": "Varudamthorum"
+    "base": "Yearly",
+    "French": "Annuel",
+    "Tamil": "Varudamthorum"
   },
   {
-    "english": "Again",
-    "french": "Encore",
-    "tamil": "Marupadiyum"
+    "base": "Again",
+    "French": "Encore",
+    "Tamil": "Marupadiyum"
   },
   {
-    "english": "Often",
-    "french": "Souvent",
-    "tamil": "Adikkadi"
+    "base": "Often",
+    "French": "Souvent",
+    "Tamil": "Adikkadi"
   },
   {
-    "english": "Always",
-    "french": "Toujours",
-    "tamil": "Eppozhudum"
+    "base": "Always",
+    "French": "Toujours",
+    "Tamil": "Eppozhudum"
   },
   {
-    "english": "At that time",
-    "french": "À ce moment-là",
-    "tamil": "Andha Neraththil"
+    "base": "At that time",
+    "French": "À ce moment-là",
+    "Tamil": "Andha Neraththil"
   },
   {
-    "english": "Before",
-    "french": "Avant",
-    "tamil": "Munnal"
+    "base": "Before",
+    "French": "Avant",
+    "Tamil": "Munnal"
   },
   {
-    "english": "Rarely",
-    "french": "Rarement",
-    "tamil": "Arithaga"
+    "base": "Rarely",
+    "French": "Rarement",
+    "Tamil": "Arithaga"
   },
   {
-    "english": "Early",
-    "french": "De bonne heure",
-    "tamil": "Munnadhagavae"
+    "base": "Early",
+    "French": "De bonne heure",
+    "Tamil": "Munnadhagavae"
   },
   {
-    "english": "Ever",
-    "french": "Déjà",
-    "tamil": "Eppozhudum"
+    "base": "Ever",
+    "French": "Déjà",
+    "Tamil": "Eppozhudum"
   },
   {
-    "english": "Recently",
-    "french": "Récemment",
-    "tamil": "Anmaiyil"
+    "base": "Recently",
+    "French": "Récemment",
+    "Tamil": "Anmaiyil"
   },
   {
-    "english": "Frequently",
-    "french": "Fréquemment",
-    "tamil": "Adikkadi"
+    "base": "Frequently",
+    "French": "Fréquemment",
+    "Tamil": "Adikkadi"
   },
   {
-    "english": "Already",
-    "french": "Déjà",
-    "tamil": "Munbae"
+    "base": "Already",
+    "French": "Déjà",
+    "Tamil": "Munbae"
   },
   {
-    "english": "Quickly",
-    "french": "Rapidement",
-    "tamil": "Viraivaga"
+    "base": "Quickly",
+    "French": "Rapidement",
+    "Tamil": "Viraivaga"
   },
   {
-    "english": "Regularly",
-    "french": "Régulièrement",
-    "tamil": "Thodarnthu /Muraiyaga /Ozhungaga"
+    "base": "Regularly",
+    "French": "Régulièrement",
+    "Tamil": "Thodarnthu /Muraiyaga /Ozhungaga"
   },
   {
-    "english": "Always",
-    "french": "Toujours",
-    "tamil": "Eppozhudum"
+    "base": "Always",
+    "French": "Toujours",
+    "Tamil": "Eppozhudum"
   },
   {
-    "english": "Since",
-    "french": "Puisque",
-    "tamil": "Irundhu"
+    "base": "Since",
+    "French": "Puisque",
+    "Tamil": "Irundhu"
   },
   {
-    "english": "Never",
-    "french": "Jamais",
-    "tamil": "Oru Podhum illai"
+    "base": "Never",
+    "French": "Jamais",
+    "Tamil": "Oru Podhum illai"
   },
   {
-    "english": "Just now",
-    "french": "Juste maintenant",
-    "tamil": "Ipozhudhuthan"
+    "base": "Just now",
+    "French": "Juste maintenant",
+    "Tamil": "Ipozhudhuthan"
   },
   {
-    "english": "Every day",
-    "french": "Tous les jours",
-    "tamil": "Ovvoru naalum / Ovvuru dhinamum"
+    "base": "Every day",
+    "French": "Tous les jours",
+    "Tamil": "Ovvoru naalum / Ovvuru dhinamum"
   },
   {
-    "english": "Once",
-    "french": "Une fois que",
-    "tamil": "Oru Murai"
+    "base": "Once",
+    "French": "Une fois que",
+    "Tamil": "Oru Murai"
   },
   {
-    "english": "So far",
-    "french": "Jusque là",
-    "tamil": "Idhuvarai"
+    "base": "So far",
+    "French": "Jusque là",
+    "Tamil": "Idhuvarai"
   },
   {
-    "english": "Yesterday",
-    "french": "Hier",
-    "tamil": "Netru"
+    "base": "Yesterday",
+    "French": "Hier",
+    "Tamil": "Netru"
   },
   {
-    "english": "To-day",
-    "french": "Aujourd'hui",
-    "tamil": "Indru"
+    "base": "To-day",
+    "French": "Aujourd'hui",
+    "Tamil": "Indru"
   },
   {
-    "english": "Tomorrow",
-    "french": "Demain",
-    "tamil": "Naalai"
+    "base": "Tomorrow",
+    "French": "Demain",
+    "Tamil": "Naalai"
   },
   {
-    "english": "For a point of time",
-    "french": "Pour un point de temps",
-    "tamil": "Oru kurupitta kaalam varai"
+    "base": "For a point of time",
+    "French": "Pour un point de temps",
+    "Tamil": "Oru kurupitta kaalam varai"
   },
   {
-    "english": "On time",
-    "french": "À temps",
-    "tamil": "Kuriththa naeraththil"
+    "base": "On time",
+    "French": "À temps",
+    "Tamil": "Kuriththa naeraththil"
   },
   {
-    "english": "In time",
-    "french": "À l'heure",
-    "tamil": "Kuriththa naeraththirkul"
+    "base": "In time",
+    "French": "À l'heure",
+    "Tamil": "Kuriththa naeraththirkul"
   },
   {
-    "english": "Home",
-    "french": "Accueil",
-    "tamil": "Veedu / Veetil"
+    "base": "Home",
+    "French": "Accueil",
+    "Tamil": "Veedu / Veetil"
   },
   {
-    "english": "Out",
-    "french": "En dehors",
-    "tamil": "Velliyae"
+    "base": "Out",
+    "French": "En dehors",
+    "Tamil": "Velliyae"
   },
   {
-    "english": "Outside",
-    "french": "À l'extérieur",
-    "tamil": "Vellipakkam"
+    "base": "Outside",
+    "French": "À l'extérieur",
+    "Tamil": "Vellipakkam"
   },
   {
-    "english": "In",
-    "french": "Dans",
-    "tamil": "Ullae"
+    "base": "In",
+    "French": "Dans",
+    "Tamil": "Ullae"
   },
   {
-    "english": "Inside",
-    "french": "À l'intérieur",
-    "tamil": "Ullpakkam /Utpakkam"
+    "base": "Inside",
+    "French": "À l'intérieur",
+    "Tamil": "Ullpakkam /Utpakkam"
   },
   {
-    "english": "Anywhere",
-    "french": "Nulle part",
-    "tamil": "Endha idathilum"
+    "base": "Anywhere",
+    "French": "Nulle part",
+    "Tamil": "Endha idathilum"
   },
   {
-    "english": "Somewhere",
-    "french": "Quelque part",
-    "tamil": "Engaeyavathu"
+    "base": "Somewhere",
+    "French": "Quelque part",
+    "Tamil": "Engaeyavathu"
   },
   {
-    "english": "Everywhere",
-    "french": "Partout",
-    "tamil": "Ella Idangalilum / Ella Idathilum"
+    "base": "Everywhere",
+    "French": "Partout",
+    "Tamil": "Ella Idangalilum / Ella Idathilum"
   },
   {
-    "english": "Nowhere",
-    "french": "Nulle part",
-    "tamil": "Engaeyumillai"
+    "base": "Nowhere",
+    "French": "Nulle part",
+    "Tamil": "Engaeyumillai"
   },
   {
-    "english": "Far away",
-    "french": "Loin",
-    "tamil": "Migath tholaivil / Romba dhoorathil"
+    "base": "Far away",
+    "French": "Loin",
+    "Tamil": "Migath tholaivil / Romba dhoorathil"
   },
   {
-    "english": "Here",
-    "french": "Ici",
-    "tamil": "Ingae"
+    "base": "Here",
+    "French": "Ici",
+    "Tamil": "Ingae"
   },
   {
-    "english": "There",
-    "french": "Là",
-    "tamil": "Angae/ Aear"
+    "base": "There",
+    "French": "Là",
+    "Tamil": "Angae/ Aear"
   },
   {
-    "english": "Away",
-    "french": "Un moyen",
-    "tamil": "Dhuuram"
+    "base": "Away",
+    "French": "Un moyen",
+    "Tamil": "Dhuuram"
   },
   {
-    "english": "Off",
-    "french": "De",
-    "tamil": "Tholaivil"
+    "base": "Off",
+    "French": "De",
+    "Tamil": "Tholaivil"
   },
   {
-    "english": "Up",
-    "french": "en haut",
-    "tamil": "Maelae"
+    "base": "Up",
+    "French": "en haut",
+    "Tamil": "Maelae"
   },
   {
-    "english": "Upstairs",
-    "french": "En haut",
-    "tamil": "Maadiyil / Melthalam"
+    "base": "Upstairs",
+    "French": "En haut",
+    "Tamil": "Maadiyil / Melthalam"
   },
   {
-    "english": "Down",
-    "french": "Vers le bas",
-    "tamil": "Kizhae"
+    "base": "Down",
+    "French": "Vers le bas",
+    "Tamil": "Kizhae"
   },
   {
-    "english": "Downstairs",
-    "french": "En bas",
-    "tamil": "Kizhthalam / kizhthalathil"
+    "base": "Downstairs",
+    "French": "En bas",
+    "Tamil": "Kizhthalam / kizhthalathil"
   },
   {
-    "english": "Far",
-    "french": "Loin",
-    "tamil": "Tholaivil / Dhoorathil"
+    "base": "Far",
+    "French": "Loin",
+    "Tamil": "Tholaivil / Dhoorathil"
   },
   {
-    "english": "Politely",
-    "french": "Poliment",
-    "tamil": "Mariyathaiyaga"
+    "base": "Politely",
+    "French": "Poliment",
+    "Tamil": "Mariyathaiyaga"
   },
   {
-    "english": "Honestly",
-    "french": "Honnêtement",
-    "tamil": "Nermaiyaga"
+    "base": "Honestly",
+    "French": "Honnêtement",
+    "Tamil": "Nermaiyaga"
   },
   {
-    "english": "Patiently",
-    "french": "patiemment",
-    "tamil": "Porumaiyaga"
+    "base": "Patiently",
+    "French": "patiemment",
+    "Tamil": "Porumaiyaga"
   },
   {
-    "english": "Warmly",
-    "french": "Chaleureusement",
-    "tamil": "Priyamaga"
+    "base": "Warmly",
+    "French": "Chaleureusement",
+    "Tamil": "Priyamaga"
   },
   {
-    "english": "Obediently",
-    "french": "Obéissant",
-    "tamil": "Thazhmaiyaga"
+    "base": "Obediently",
+    "French": "Obéissant",
+    "Tamil": "Thazhmaiyaga"
   },
   {
-    "english": "Cleverly",
-    "french": "Habilement",
-    "tamil": "Sathuriyamaga"
+    "base": "Cleverly",
+    "French": "Habilement",
+    "Tamil": "Sathuriyamaga"
   },
   {
-    "english": "Boldly",
-    "french": "Hardiment",
-    "tamil": "Dhairiyamaga"
+    "base": "Boldly",
+    "French": "Hardiment",
+    "Tamil": "Dhairiyamaga"
   },
   {
-    "english": "Bravely",
-    "french": "Courageusement",
-    "tamil": "Thunichalaga"
+    "base": "Bravely",
+    "French": "Courageusement",
+    "Tamil": "Thunichalaga"
   },
   {
-    "english": "Perfectly",
-    "french": "à la perfection",
-    "tamil": "Kachithamaga"
+    "base": "Perfectly",
+    "French": "à la perfection",
+    "Tamil": "Kachithamaga"
   },
   {
-    "english": "Sadly",
-    "french": "Malheureusement",
-    "tamil": "Soagamaga"
+    "base": "Sadly",
+    "French": "Malheureusement",
+    "Tamil": "Soagamaga"
   },
   {
-    "english": "Accidentally",
-    "french": "Accidentellement",
-    "tamil": "Ethirparathavidhamaga"
+    "base": "Accidentally",
+    "French": "Accidentellement",
+    "Tamil": "Ethirparathavidhamaga"
   },
   {
-    "english": "Usually",
-    "french": "habituellement",
-    "tamil": "Vazhakamaga"
+    "base": "Usually",
+    "French": "habituellement",
+    "Tamil": "Vazhakamaga"
   },
   {
-    "english": "Generally",
-    "french": "Généralement",
-    "tamil": "Poduvaga"
+    "base": "Generally",
+    "French": "Généralement",
+    "Tamil": "Poduvaga"
   },
   {
-    "english": "Hardly",
-    "french": "À peine",
-    "tamil": "Arithaga"
+    "base": "Hardly",
+    "French": "À peine",
+    "Tamil": "Arithaga"
   },
   {
-    "english": "Normally",
-    "french": "Normalement",
-    "tamil": "Pothuvaga"
+    "base": "Normally",
+    "French": "Normalement",
+    "Tamil": "Pothuvaga"
   },
   {
-    "english": "Slowly",
-    "french": "Lentement",
-    "tamil": "Meduvaga"
+    "base": "Slowly",
+    "French": "Lentement",
+    "Tamil": "Meduvaga"
   },
   {
-    "english": "Quickly",
-    "french": "Rapidement",
-    "tamil": "Viraivaga"
+    "base": "Quickly",
+    "French": "Rapidement",
+    "Tamil": "Viraivaga"
   },
   {
-    "english": "Quietly",
-    "french": "Tranquillement",
-    "tamil": "Amaithiyaga"
+    "base": "Quietly",
+    "French": "Tranquillement",
+    "Tamil": "Amaithiyaga"
   },
   {
-    "english": "Indirectly",
-    "french": "Indirectement",
-    "tamil": "Maraimugamaga"
+    "base": "Indirectly",
+    "French": "Indirectement",
+    "Tamil": "Maraimugamaga"
   },
   {
-    "english": "Mostly",
-    "french": "La plupart",
-    "tamil": "Perumpalum"
+    "base": "Mostly",
+    "French": "La plupart",
+    "Tamil": "Perumpalum"
   },
   {
-    "english": "Indeed",
-    "french": "En effet",
-    "tamil": "Unmaiyil"
+    "base": "Indeed",
+    "French": "En effet",
+    "Tamil": "Unmaiyil"
   },
   {
-    "english": "Luckily",
-    "french": "Heureusement",
-    "tamil": "Athirshtavasamaga"
+    "base": "Luckily",
+    "French": "Heureusement",
+    "Tamil": "Athirshtavasamaga"
   },
   {
-    "english": "Happily",
-    "french": "Heureusement",
-    "tamil": "Sandoshamaga"
+    "base": "Happily",
+    "French": "Heureusement",
+    "Tamil": "Sandoshamaga"
   },
   {
-    "english": "Carefully",
-    "french": "Soigneusement",
-    "tamil": "Gavanamaga"
+    "base": "Carefully",
+    "French": "Soigneusement",
+    "Tamil": "Gavanamaga"
   },
   {
-    "english": "Eagerly",
-    "french": "Vivement",
-    "tamil": "Arvamaga"
+    "base": "Eagerly",
+    "French": "Vivement",
+    "Tamil": "Arvamaga"
   },
   {
-    "english": "Beautifully",
-    "french": "magnifiquement",
-    "tamil": "Azhagaga"
+    "base": "Beautifully",
+    "French": "magnifiquement",
+    "Tamil": "Azhagaga"
   },
   {
-    "english": "Personally",
-    "french": "Personnellement",
-    "tamil": "Andharangamaga / Neradiyaga"
+    "base": "Personally",
+    "French": "Personnellement",
+    "Tamil": "Andharangamaga / Neradiyaga"
   },
   {
-    "english": "Nicely",
-    "french": "Bien",
-    "tamil": "Enimaiyaga"
+    "base": "Nicely",
+    "French": "Bien",
+    "Tamil": "Enimaiyaga"
   },
   {
-    "english": "Seriously",
-    "french": "Sérieusement",
-    "tamil": "Abathaga"
+    "base": "Seriously",
+    "French": "Sérieusement",
+    "Tamil": "Abathaga"
   },
   {
-    "english": "Purposely",
-    "french": "À dessein",
-    "tamil": "Vendummenrae"
+    "base": "Purposely",
+    "French": "À dessein",
+    "Tamil": "Vendummenrae"
   },
   {
-    "english": "Loudly",
-    "french": "Bruyamment",
-    "tamil": "Saththamaga"
+    "base": "Loudly",
+    "French": "Bruyamment",
+    "Tamil": "Saththamaga"
   },
   {
-    "english": "Proudly",
-    "french": "Fièrement",
-    "tamil": "Garvamaga"
+    "base": "Proudly",
+    "French": "Fièrement",
+    "Tamil": "Garvamaga"
   },
   {
-    "english": "Promptly",
-    "french": "Rapidement",
-    "tamil": "Sariyaga/ Kalam thazhthamal"
+    "base": "Promptly",
+    "French": "Rapidement",
+    "Tamil": "Sariyaga/ Kalam thazhthamal"
   },
   {
-    "english": "Strictly",
-    "french": "Strictement",
-    "tamil": "Kandippaga"
+    "base": "Strictly",
+    "French": "Strictement",
+    "Tamil": "Kandippaga"
   },
   {
-    "english": "Thoroughly",
-    "french": "Complètement",
-    "tamil": "Muzhumaiyaga"
+    "base": "Thoroughly",
+    "French": "Complètement",
+    "Tamil": "Muzhumaiyaga"
   },
   {
-    "english": "Unfortunately",
-    "french": "Malheureusement",
-    "tamil": "Thurathirshtavasamaga"
+    "base": "Unfortunately",
+    "French": "Malheureusement",
+    "Tamil": "Thurathirshtavasamaga"
   },
   {
-    "english": "Wholly",
-    "french": "Entièrement",
-    "tamil": "Muzhumaiyaga / Niraivaga"
+    "base": "Wholly",
+    "French": "Entièrement",
+    "Tamil": "Muzhumaiyaga / Niraivaga"
   },
   {
-    "english": "After",
-    "french": "Après",
-    "tamil": "Piragu"
+    "base": "After",
+    "French": "Après",
+    "Tamil": "Piragu"
   },
   {
-    "english": "Although",
-    "french": "Bien que",
-    "tamil": "Irundhalum"
+    "base": "Although",
+    "French": "Bien que",
+    "Tamil": "Irundhalum"
   },
   {
-    "english": "And",
-    "french": "Et",
-    "tamil": "Melum,Kuda"
+    "base": "And",
+    "French": "Et",
+    "Tamil": "Melum,Kuda"
   },
   {
-    "english": "Because",
-    "french": "Parce que",
-    "tamil": "Yenenil"
+    "base": "Because",
+    "French": "Parce que",
+    "Tamil": "Yenenil"
   },
   {
-    "english": "Before",
-    "french": "Avant",
-    "tamil": "Munnal"
+    "base": "Before",
+    "French": "Avant",
+    "Tamil": "Munnal"
   },
   {
-    "english": "But",
-    "french": "Mais",
-    "tamil": "Aanaal, Ere, Munbu"
+    "base": "But",
+    "French": "Mais",
+    "Tamil": "Aanaal, Ere, Munbu"
   },
   {
-    "english": "Except",
-    "french": "Sauf",
-    "tamil": "Andri"
+    "base": "Except",
+    "French": "Sauf",
+    "Tamil": "Andri"
   },
   {
-    "english": "For",
-    "french": "Pour",
-    "tamil": "Yenenil"
+    "base": "For",
+    "French": "Pour",
+    "Tamil": "Yenenil"
   },
   {
-    "english": "How",
-    "french": "Comment",
-    "tamil": "Eppadi,Evvaru"
+    "base": "How",
+    "French": "Comment",
+    "Tamil": "Eppadi,Evvaru"
   },
   {
-    "english": "If",
-    "french": "Si",
-    "tamil": "Apadiyaanal"
+    "base": "If",
+    "French": "Si",
+    "Tamil": "Apadiyaanal"
   },
   {
-    "english": "Neither",
-    "french": "Ni",
-    "tamil": "Idhuve enil Adhuvum illai"
+    "base": "Neither",
+    "French": "Ni",
+    "Tamil": "Idhuve enil Adhuvum illai"
   },
   {
-    "english": "Only",
-    "french": "Seulement",
-    "tamil": "Aayinum,Eninum"
+    "base": "Only",
+    "French": "Seulement",
+    "Tamil": "Aayinum,Eninum"
   },
   {
-    "english": "Or",
-    "french": "Ou",
-    "tamil": "Alladhu"
+    "base": "Or",
+    "French": "Ou",
+    "Tamil": "Alladhu"
   },
   {
-    "english": "Since",
-    "french": "Puisque",
-    "tamil": "Idhu varai"
+    "base": "Since",
+    "French": "Puisque",
+    "Tamil": "Idhu varai"
   },
   {
-    "english": "So",
-    "french": "Alors",
-    "tamil": "Endraal"
+    "base": "So",
+    "French": "Alors",
+    "Tamil": "Endraal"
   },
   {
-    "english": "Than",
-    "french": "Que",
-    "tamil": "vida"
+    "base": "Than",
+    "French": "Que",
+    "Tamil": "vida"
   },
   {
-    "english": "That",
-    "french": "Cette",
-    "tamil": "Enave,Adhu"
+    "base": "That",
+    "French": "Cette",
+    "Tamil": "Enave,Adhu"
   },
   {
-    "english": "Then",
-    "french": "ensuite",
-    "tamil": "Apadiyaanal"
+    "base": "Then",
+    "French": "ensuite",
+    "Tamil": "Apadiyaanal"
   },
   {
-    "english": "Therefore",
-    "french": "Donc",
-    "tamil": "Aagaiyaal"
+    "base": "Therefore",
+    "French": "Donc",
+    "Tamil": "Aagaiyaal"
   },
   {
-    "english": "Though",
-    "french": "Bien que",
-    "tamil": "Ena Irundhalum,Endrapodhilum"
+    "base": "Though",
+    "French": "Bien que",
+    "Tamil": "Ena Irundhalum,Endrapodhilum"
   },
   {
-    "english": "As Though",
-    "french": "Comme si",
-    "tamil": "Endru irundadhu pola"
+    "base": "As Though",
+    "French": "Comme si",
+    "Tamil": "Endru irundadhu pola"
   },
   {
-    "english": "Unless",
-    "french": "Sauf si",
-    "tamil": "Endrillaamal,Illavidil"
+    "base": "Unless",
+    "French": "Sauf si",
+    "Tamil": "Endrillaamal,Illavidil"
   },
   {
-    "english": "Until",
-    "french": "Jusqu'à ce que",
-    "tamil": "Adhuvaraiyil"
+    "base": "Until",
+    "French": "Jusqu'à ce que",
+    "Tamil": "Adhuvaraiyil"
   },
   {
-    "english": "Unto",
-    "french": "Unto",
-    "tamil": "Varai"
+    "base": "Unto",
+    "French": "Unto",
+    "Tamil": "Varai"
   },
   {
-    "english": "Where as",
-    "french": "Tandis que",
-    "tamil": "Apadiyiruka"
+    "base": "Where as",
+    "French": "Tandis que",
+    "Tamil": "Apadiyiruka"
   },
   {
-    "english": "While",
-    "french": "Tandis que",
-    "tamil": "Ade samayam,Satru neram"
+    "base": "While",
+    "French": "Tandis que",
+    "Tamil": "Ade samayam,Satru neram"
   },
   {
-    "english": "Whether",
-    "french": "Qu'il s'agisse",
-    "tamil": "Irandinul Edhuvendru"
+    "base": "Whether",
+    "French": "Qu'il s'agisse",
+    "Tamil": "Irandinul Edhuvendru"
   },
   {
-    "english": "Yet",
-    "french": "Encore",
-    "tamil": "Melum,Irundhapodhilum"
+    "base": "Yet",
+    "French": "Encore",
+    "Tamil": "Melum,Irundhapodhilum"
   }
 ]

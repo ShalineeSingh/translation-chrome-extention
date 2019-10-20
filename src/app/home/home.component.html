@@ -9,30 +9,26 @@
         </div>
         <p class="hint">Here's a new word for you.. </p>
         <div>
-            <span class="word">{{selected_word.english}}</span>
+            <span class="word">{{selected_word.base}}</span>
             <span class="new-word fa fa-refresh" (click)="getNewWord()"></span>
         </div>
-        <p *ngIf="selected_word.tamil">
-            <span class="hint">Tamil: </span>
-            <span>{{selected_word.tamil}}</span>
-        </p>
-        <p *ngIf="selected_word.french">
-            <span class="hint">French: </span>
-            <span>{{selected_word.french}} </span>
-        </p>
+        <div *ngFor="let key of keys_list">
+            <p *ngIf="key !== 'base'">
+                <span class="hint">{{key}}: </span>
+                <span>{{selected_word[key]}}</span>
+            </p>
+        </div>
     </div>
     <div *ngIf="search_text && filtered_data && filtered_data.length" class="filtered-list">
         <ul>
             <li *ngFor="let datum of filtered_data">
-                <p>{{ datum.english }}</p>
-                <p>
-                    <span class="hint">Tamil: </span>
-                    <span>{{ datum.tamil }}</span>
-                </p>
-                <p>
-                    <span class="hint">French: </span>
-                    <span>{{ datum.french }}</span>
-                </p>
+                <p>{{ datum.base }}</p>
+                <div *ngFor="let key of keys_list">
+                    <p *ngIf="key !== 'base'">
+                        <span class="hint">{{key}}: </span>
+                        <span>{{datum[key]}}</span>
+                    </p>
+                </div>
             </li>
         </ul>
     </div>
