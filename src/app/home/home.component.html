@@ -8,7 +8,10 @@
             <p class="date">{{current_time | date : 'longDate'}}</p>
         </div>
         <p class="hint">Here's a new word for you.. </p>
-        <p class="word">{{selected_word.english}}</p>
+        <div>
+            <span class="word">{{selected_word.english}}</span>
+            <span class="new-word fa fa-refresh" (click)="getNewWord()"></span>
+        </div>
         <p *ngIf="selected_word.tamil">
             <span class="hint">Tamil: </span>
             <span>{{selected_word.tamil}}</span>

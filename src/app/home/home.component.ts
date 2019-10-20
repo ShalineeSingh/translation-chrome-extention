@@ -16,7 +16,9 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     this.generateGradient();
-    this.current_time = Date.now();
+    setInterval(() => {
+      this.current_time = Date.now();
+    }, 1000);
     this.selected_word = data[Math.floor(Math.random() * data.length)];
   }
 
@@ -43,5 +45,9 @@ export class HomeComponent implements OnInit {
     this.filtered_data = this.translated_data.filter(
       datum => (datum.english.indexOf(filter_text) > -1 || datum.tamil.indexOf(filter_text) > -1 || datum.french.indexOf(filter_text) > -1));
 
+  }
+
+  getNewWord() {
+    this.selected_word = data[Math.floor(Math.random() * data.length)];
   }
 }
