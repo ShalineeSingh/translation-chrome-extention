@@ -4,6 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project was created as I wanted to learn a new language and taking out time specifically for that was getting more difficult. 
 
+This project will work for any data file that is added. `data.json` should be added in the following format.
+```json
+[{
+    "base": "water",
+    "French": "l'eau",
+    "Tamil": "Thaneer",
+    "Hindi": "Pani"
+  }]
+```
+ 
 ## Steps to use this project
 
 1. Decide the language that you want to learn. (Currently around 500 words are added in Tamil and French)
